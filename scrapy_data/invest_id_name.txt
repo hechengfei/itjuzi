@@ -1,0 +1,7525 @@
+45,腾讯
+1,红杉资本中国
+4,真格基金
+2,IDG资本
+7,经纬中国
+588,Sequoia Capital（红杉海外）
+65,顺为资本
+22,险峰长青
+48,阿里巴巴
+278,Accel Partners
+20,GGV纪源资本
+10,启明创投
+1333,丹华资本
+368,Y Combinator
+9,君联资本
+258,高瓴资本
+12,晨兴资本
+76,SIG海纳亚洲
+233,高榕资本
+846,梅花创投
+72,达晨创投
+11,金沙江创投
+146,NEA恩颐投资
+244,Google Ventures
+6,北极光创投
+28,深创投
+6640,百度风投
+432,Andreessen Horowitz(简称A16Z)
+393,Goldman Sachs高盛(国外)
+287,Lightspeed Venture Partners美国光速
+6797,节点资本
+441,SoftBank capital软银海外
+181,英诺天使基金
+7170,NGC
+68,华创资本
+1852,蚂蚁金服(阿里巴巴)
+6875,了得资本
+7221,火币全球生态基金
+172,Temasek淡马锡
+148,软银中国
+1345,源码资本
+1495,元璟资本
+71,赛富基金
+1398,洪泰基金
+3358,前海母基金
+379,Index Ventures
+848,普华资本
+61,松禾资本
+1835,峰瑞资本
+197,明势资本
+224,京东
+3,创新工场
+1736,分布式资本
+39,策源创投
+13,DCM中国
+5053,创世资本
+167,招商局资本
+265,启赋资本
+8,蓝驰创投
+19,九合创投
+442,Spark Capital
+126,东方富海
+120,云锋基金
+6479,火山石资本
+6702,不惑创投
+6081,国家中小企业发展基金（国中创投）
+31,鼎晖投资
+133,联想之星
+165,凯辉基金
+1359,云启资本
+296,Khosla Ventures
+237,钟鼎创投
+2592,凯泰资本
+6539,翊翎资本
+290,Bessemer Venture Partners
+541,Tiger Global Management(老虎国外)
+843,华盖资本
+6854,FBG Capital
+7198,F-Prime Capital Partners
+1332,线性资本
+33,青松基金
+23,光速中国
+27,贝塔斯曼亚洲投资基金
+6819,科银资本Collinstar Capital
+7092,JRR Crypto
+2465,通和毓承
+2691,SBI投资(思佰益)
+150,斯道资本(富达亚洲)
+1929,中科创星
+6687,硬币资本INBlockchain
+36,祥峰投资
+47,德同资本
+54,华映资本
+49,百度公司
+95,500 Startups
+107,英特尔投资Intel Capital
+3376,泛城资本
+6893,比特大陆
+330, Insight Venture Partners
+456,Founders Fund
+34,戈壁创投
+332,True Ventures
+470,General Catalyst Partners
+1455,GIC新加坡政府投资公司
+1589,涌铧投资
+1639,愉悦资本
+134,好未来(学而思)
+1022,复星集团
+6855,8VC
+15,Redpoint Ventures红点全球基金
+82,同创伟业
+559,Ridge Ventures( IDG Ventures USA)
+2459,头头是道投资基金
+6944,国投创业
+100,天图投资
+4731,昆仲资本
+6807,LinkVC连接资本
+195,小米科技
+2272,Alexandria Venture Investments
+3302,元禾原点创投
+6853,DFund
+111,东方弘道(弘合基金)
+255,高盛集团(中国)
+613,硅谷银行Silicon Valley Bank
+452,Salesforce
+844,国科嘉和
+6529,红点创投中国基金
+16,宽带资本CBC
+193,复星锐正资本
+328,Upfront Ventures
+366,General Atlantic泛大西洋投资
+587,Trinity Ventures
+1032,Blume Ventures
+1099,微软Microsoft
+1291,Omidyar Network
+5243,清控银杏创投
+6604,极豆资本
+315,Canaan Partners
+1787,Arch Venture Partners
+295,First Round Capital
+334,Polaris Partners
+306,T. Rowe Price
+502,Samsung Ventures三星
+2208,微影资本(微影时代)
+7388,Initialized Capital
+29,天使湾
+81,德迅投资
+308,Union Square Ventures
+293,Shasta Ventures
+708,Coatue Management
+1364,弘晖资本
+288,Kleiner Perkins Caufield & Byers(KPCB全球)
+1625,微光创投
+1912,普洛斯GLP
+2069,礼来亚洲基金
+2746,云九资本
+277,Greylock Partners
+5,KPCB凯鹏华盈中国
+1376,58同城
+2148,启迪之星（启迪孵化器）
+851,富达投资Fidelity Investments
+1846,Atomico
+6568,Plug and Play
+6601,追远创投
+6673,金沙江联合资本
+7218,动平衡资本
+62,奇虎360
+178,Infinity Venture Partners（IVP）
+440,Kalaari Capital
+574,Menlo Ventures
+1753,春晓资本
+1803,分享投资
+3775,博裕资本
+4823,招银国际
+18,高通Qualcomm Ventures
+98,中国加速Chinaccelerator
+214,盈动资本
+273,五岳资本
+354,Norwest Venture Partners
+954,Comcast Ventures
+1362,蓝湖资本
+2176,道生资本
+2524,汉富控股
+2569,盈科资本
+2751,大观资本
+17,PreAngel
+157,兰馨亚洲
+205,丰厚资本
+471,Thrive capital
+1092,广发信德
+2579,前海梧桐并购基金
+6374,银河系创投
+6879,挑战者资本
+113,荷塘创投（启迪创投）
+26,挚信资本
+1107,华人文化产业投资基金
+1387,达泰资本
+2498,博将资本
+2683,远望资本
+7381,北塔资本
+198,Tiger老虎基金(中国)
+661,Matrix Partners经纬海外
+667,Scale Venture Partners
+754,OrbiMed奥博资本
+5341,建银国际
+7069,Pantera Capital
+6889,哔哩哔哩bilibili
+14,今日资本
+151,新东方
+257,中信资本
+352,SV Angel
+1617,熊猫资本
+1619,唯猎资本
+2674,远毅资本
+5678,源星资本
+6896,火币网
+6980,国药资本
+7043,八维资本
+7436,Liquid 2 Ventures
+163,华平投资
+279,Battery Ventures
+337,Madrona Venture Group
+394,Balderton Capital
+412,Social Capital Partners
+614,Venrock
+1114,BWVC泽厚资本
+1375,赛伯乐投资
+1482,IFC国际金融公司
+7135,共识实验室（火星生态基金）
+1778,蓝象资本
+153,诺基亚成长基金
+333,Iconiq Capital
+685,瓦肯资本Vulcan Capital
+906,5AM Ventures
+1386,伯藜创投
+6876,星耀资本
+7071,K11
+7235,Polychain Capital
+225,清流资本
+316,e.ventures
+380,Creandum
+467,Nexus Venture Partners
+650,FirstMark Capital
+1036,盛景网联(盛景嘉成)
+1409,联想创投集团
+1476,KIP韩投伙伴
+1656,界石投资
+2134,红星美凯龙
+2631,富士康
+4877,原链资本
+6965,InnoVen Capital
+121,华登国际
+7403,Beenext
+7427,Perceptive Advisors
+7446,Axilor Ventures
+7495,ArrowMark Partners
+7502,Insignia Ventures Partners
+736,Idinvest Partners
+32,Ventech China银泰资本
+94,信中利资本
+264,普思资本
+1925,滴滴
+1999,辰海资本
+6700,星合资本
+7117,追梦者基金
+7148,想象力基金
+7163,GBIC
+364,Star VC
+250,重山资本
+262,朗玛峰创投
+388,Horizons Ventures维港投资
+556,TPG Growth新桥资本
+692,DST Global Solutions
+886,Highland Capital Partners
+1432,信天创投
+2074,浙大友创
+2385,山行资本
+2565,高捷资本
+2661,如川投资
+2721,越秀产业基金
+5651,晨山资本
+6634,嘉程资本
+6890,科大讯飞
+35,成为资本
+139,新进创投
+378,Northzone Ventures
+709,Ribbit Capital
+1450,Baillie Gifford
+1604,众海投资
+2001,KKR
+6596,璀璨资本
+6611,创世伙伴资本
+7011,哈希资本Hash Capital
+7068,RA Capital Management
+7400,EDBI
+25,阿米巴资本
+612,Atlas Venture
+640,Amazon亚马逊
+721,OurCrowd
+890,Pritzker Group Venture Capital
+1131,East Ventures
+1149,Lux Capital
+1344,中金公司
+1379,毅达资本
+1673,协立投资
+1715,星瀚资本
+1934,华兴新经济基金
+2102,歌斐资产
+2615,尚珹资本
+2714,磐霖资本
+3277,工银国际
+3568,XVC创投
+6968,蔚来资本
+7201,海尔资本
+6857,BlockVC
+7387,LocalGlobe
+7459,Fifth Wall
+21,清科创投
+55,Cherubic Ventures心元资本
+212,元禾控股
+245,凯欣亚洲投资Crescent Group
+601,Mayfield Fund
+619,Charles River Ventures(CRV)
+1363,知卓资本
+1643,飞马基金-飞马旅
+1784,双湖资本
+2060,汇桥资本
+3304,药明康德
+4280,苏州清研资本
+6441,襄禾资本
+6810,远洋资本
+7041,雄岸基金
+7204,Versant Ventures
+7331,EQT Ventures
+7437,M12
+7439,Felix Capital
+426,Data Collective
+391,Foundation Capital
+566,Aspect Ventures
+845,力合科创（力合创投）
+1862,耀途资本
+2090,点亮资本
+3927,融创中国
+5449,嘉实投资-嘉实基金
+6524,经纬印度Matrix Partners India
+6582,浩方创投
+6967,夸克资本
+7260,同程众创启程金禾基金
+7395,Digital Currency Group
+7448,Uncork Capital
+7463,Trifecta Capital
+7516,回向基金
+70,联创永宣
+268,老鹰基金
+339,Morgan Stanley摩根士丹利
+317,Greycroft Partners
+533,HV Holtzbrinck Ventures
+738,Bpifrance
+868,BDC Venture Capital
+887,Slow Ventures
+1054,Real Ventures
+1448,复星医药
+1416,以太创服（以太资本）
+1525,基石资本
+1559,凯风创投
+1557,海尔
+1543,GE Ventures通用电气
+1711,Lerer Hippeau Ventures
+2139,金浦投资
+2153,国家集成电路产业投资基金
+3734,金科君创
+5967,原创资本
+6574,壹号资本
+6788,险峰旗云
+6821,维京资本
+7101,启创资本QC Capital
+7128,链上资本(链上FOF)
+7373,新势能基金
+7389,Accomplice
+7655,Alexa Fund
+96,隆领投资
+102,源渡创投
+103,亚商资本
+174,薛蛮子(蛮子基金)
+280,Great Oaks Venture Capital
+350,Felicis Ventures
+404,Partech Ventures
+486,Forerunner Ventures
+534,Alven Capital
+790,DFJ德丰杰(全球)
+923,三七互娱
+964,CapitalG谷歌资本
+974,Jungle Ventures
+1411,Sapphire Ventures
+1606,执一资本
+1704,Sofinnova Partners
+1745,初心资本
+1743,Kae Capital
+1856,国金投资
+1904,泰有投资
+1904,泰有投资
+1944,领沨资本
+2984,君盛投资
+5022,中民投
+6928,广发乾和
+7058,弘励创投
+7239,Airbus Ventures
+7441,Endeavor Catalyst
+7440,M Ventures
+7450,Invus
+109,德鼎创新基金(德丰杰龙脉)
+158,华睿投资
+160,DST
+221,银杏谷资本
+341,iNovia Capital
+411,BoxGroup
+418,Techstars Ventures
+462,Two Sigma Ventures
+577,花旗Citi Ventures
+624,Google谷歌
+641,Foundry Group
+893,Industry Ventures
+1459, 青山资本
+1616,浅石创投
+1800,维梧资本Vivo Capital
+1853,菜鸟网络(阿里巴巴)
+1918,辰德资本
+2173,青锐创投
+2251,中投中财基金
+2440,尚势资本
+2435,招商银行
+2762,宜信财富
+2923,阿里巴巴创业者基金
+3812,本草资本
+6463,雅惠精准医疗基金
+6492,招商启航资本
+6822,时戳资本
+6942,龙磐投资
+6920,歌者资本
+7004,Costanoa Ventures
+7030,赤子基金
+7215,丰田汽车
+7288,度量衡资本
+1788,美团(新美大)
+7414,Sistema Asia Fund
+7420,Sound Ventures
+7449,Seedcamp
+87,原子创投
+188,九鼎投资
+252,汉能投资
+298,合力投资
+342,Emergence Capital Partners
+482,BMW i Ventures
+634,RRE Ventures
+734,Lakestar
+783,Bain Capital Ventures
+1116,Pelion Venture Partners
+1211,Dream Incubator
+1382,娱乐工场
+1608,昆仑万维
+1661,春华资本Primavera
+1865,济峰资本
+2127,北汽产业投资基金
+2158,华控基金
+2221,星河互联
+2343,臻云创投
+2325,水木清华校友基金
+2446,寒武创投
+2527,莲花资本
+2654,朗盛投资
+3097,高达投资
+3213,正心谷创新资本
+5179,华业天成(华诺创投)
+6459,慕华投资(慕华教育)
+6773,合创资本
+6842,杭州水木泽华基金
+6845,中金资本
+6882,容铭资本
+7067,Cormorant Asset Management
+7468,Fireside Ventures
+7554,Novo Holdings
+7653,JAZZ Venture Partners
+1671,高特佳投资
+80,新浪微博基金
+97,平安创新投资基金
+303,Sutter Hill Ventures
+396,JPMorgan摩根大通
+453,Meritech Capital Partners
+608,Saama Capital
+1700,光源资本
+1794,阿尔法公社
+1927,今日头条
+1939,美图
+2215,道彤投资
+2359,浙江金控资本
+2431,创大资本
+2428,上汽投资-尚颀资本
+2463,康桥资本
+2745,富兰克林邓普顿Franklin Templeton
+3345,保利资本
+5169,光控众盈新产业基金
+6749,元生创投
+6735,九宜城
+6798,东方新创
+7059,比邻星创投
+7061,Cherry Ventures
+7064,朗科投资
+7130,海松资本
+7156,华新投资
+7176,Stripes Group
+7196,十维资本
+7207,Bitblock Capital
+7461,Beringea
+7444,Caffeinated Capital
+7486,WaterBridge Ventures
+7493,Oxford Sciences Innovation
+7531,Cultivation Capital
+7533,Vostok New Ventures
+2680,盛山资产
+7658,中科院创投
+30,起点创业营
+130,紫辉创投
+192,弘毅投资
+309,华山资本WestSummit Capital
+428,Bloomberg Beta
+621,Tenaya Capital
+676,August Capital
+786,Innovation Endeavors
+810,Times Internet
+1343,如山资本
+1493,起源资本
+1576,哈鲁资本
+1621,长石资本
+1769,零一创投
+1762,顺丰速运
+1809,长安私人资本
+1874,创势资本
+2722,芒果文创基金
+2768,紫金港资本
+2977,湖北高投
+3950,幂方资本
+4000,德屹资本
+4824,TF Capital泰福资本
+5025,仙瞳资本
+5155,曜为资本
+5430,爱奇艺
+5561,天亿投资
+6515,名川资本
+6508,沸点资本
+6636,晟道投资
+6704,盛港投资
+6778,鸿泰基金
+6902,光谷人才基金
+6886,51信用卡
+7000,S. Capital一致资本
+7027,正念资本
+7079,山水创投
+7119,鼎心资本
+7228,Amadeus Capital Partners
+7391,Goodwater Capital
+7396,Reach Capital
+7413,Tusk Ventures
+7458,GreatPoint Ventures
+7497,Oak HC/FT
+7595,Foresite Capital
+7672,循理资本
+66,美国中经合集团
+127,沃衍资本
+194,浙商创投
+256,立思辰
+421,AME Cloud Ventures
+581,Redmile Group
+623,Warburg Pincus(海外投资)
+722,Greenoaks Capital Management
+835,厚朴基金
+915,人民网
+1031,DCM海外
+1140,Allen & Company
+1879,和盟创投
+1898,挖财
+2014,三行资本
+2082,赫斯特Hearst Ventures
+2132,德联资本
+2381,元生资本
+2399,中国风险投资
+2416,中华开发
+2582,阿里健康(阿里巴巴)
+2726,澎湃资本
+2971,国科投资
+3182,招商致远资本(招商资本)
+3195,中银粤财
+5275,中电健康基金
+5401,儒者创投
+6462,华大基因
+6571,Breyer Capital
+6823,JLAB投资
+6856,区块链资本Blockchain Capital
+7133,Info Edge
+7144,优选资本
+7153,比升资本
+7254,新宜资本
+7406,Future Fund
+7550,OK资本
+7620,Viola Ventures
+79,携程
+180,同方厚持
+169,TCL资本
+191,苏宁
+204,云天使基金
+283,国泰创投
+468,Helion Venture Partners
+626,Altimeter Capital
+670,Samsung Catalyst Fund
+665,Valar Ventures
+781,合鲸资本
+797,Icon Venture Partners
+827,Notion Capital
+876,Nyca Partners
+888,Chicago Ventures
+992,暾澜投资
+1105,Recruit Strategic Partners
+1276,Signal Peak Ventures
+1336,远镜创投
+1477,京北投资
+1511,安芙兰资本
+1560,Visa
+1600,光大集团
+1633,迭代资本
+1649,麦星投资
+1756,晨晖资本
+1981,威创股份
+2137,中卫基金
+2274,COLOPL NEXT
+2350,和悦资本
+2741,德晖资本
+2734,建信资本
+3352,中南弘远
+3460,猎鹰创投
+3608,天士力创投
+4008,君上资本
+4949,阳光保险
+5069,德诚资本
+5406,苹果天使APU
+6434,华耀资本
+6610,志拙资本
+6696,顶商投资
+6767,东方盛鼎
+6828,景旭创投
+6916,开物天使基金(开物相泰)
+6925,华联长山兴
+7012,金沙江资本
+7066,Rock Springs Capital
+7157,粤民投
+7165,Blockchain Ventures
+7191,道合科技投资
+7205,九天创合资本
+7290,清新资本
+7310,Dentsu Ventures
+7325,沃生投资
+7311,Octopus Ventures
+7410,Amgen Ventures
+7500,LetsVenture
+7552,Atami Capital
+7621,Unicorn India Ventures
+7608,3One4 Capital
+7678,翼迪投资
+7668,珂玺资本
+7683,猎人资本H.Capital
+86,华岩资本ChinaRock
+106,创业工场VenturesLab
+129,网易
+199,中信产业基金
+299,常春藤资本
+297,Javelin Venture Partners
+370,betaworks
+406,Rakuten Ventures
+463,Technology Crossover Ventures
+457,Eniac Ventures
+796,Western Technology Investment
+1272,Project A Ventures
+1317,Wing Venture Partners
+1326,Susa Ventures
+1551,Mirae Asset Venture Investment
+1640,正轩投资
+1901,连力创投
+1946,中美创投
+1962,创客总部
+2207,治平资本
+2413,华泰证券
+2424,Venturra Capital
+2677,凯盈资本
+2731,千乘资本
+3033,曦域资本
+3014,投控东海投资
+5626,泰合资本
+5698,联石投资
+6531,水木资本
+6818,千方基金ChainFunder
+6866,华医资本
+6898,NVIDIA英伟达
+6943,鲁信创投
+6988,国新科创基金（国新基金）
+6981,朴素资本
+7015,中顺易资本
+7053,邦盛资本
+7097,御势资本
+7238,清华长三角研究院
+7348,睿鲸资本
+7394,Venture Catalysts
+7412,Venture Highway
+7455,Domain Associates
+7457,Boost VC
+7462,Sands Capital Ventures
+7475,14W
+7524,Zeev Ventures
+7567,Keen Venture Partners
+7598,Alphabet
+7627,Rise Fund
+7689,SeedPlus
+119,风和投资
+190,方广资本
+228,雄牛资本
+269,天堂硅谷
+430,Founder Collective
+431,Benchmark Capital
+407,AngelPad
+485,Maveron
+693,Sofina
+802,Golden Gate Ventures
+896,Verizon Ventures
+969,Passion Capital
+1120,VY Capital
+1139,Jump Capital
+1179,深圳厚德前海基金
+1240,坚果资本
+1245,Translink Capital
+1366,无穹创投
+1492,黑马基金
+1565,PayPal
+1710,银湖投资
+1691,大河创投
+2091,粤科金融
+2111,黑石集团Blackstone
+2136,辉瑞Pfizer
+2203,远瞻资本
+2279,浙商产融
+2362,约印创投
+2602,千骥资本
+2668,立元创投
+2681,AC加速器
+3669,众麟资本
+4158,农银国际
+4830,文投控股
+4847,领势投资
+5195,TPG德太资本
+6365,众源资本
+6525,将门创投
+6513,晨晖创投
+6651,中俄投资基金
+6731,纵横资本
+6737,真成投资
+6777,龙珠资本(美团点评产业基金)
+6783,中海资本
+6964,七熹投资
+6972,长策投资
+7002,中寰资本
+7009,睿鼎资本
+7035,博行资本
+7073,仁智资本
+7048,乐东资本
+7086,靖亚资本
+7100,C Ventures Fund
+7252,Peterson Ventures
+7318,久友资本
+7405,The Column Group
+7452,Fenox Venture Capital
+7434,Owl Ventures
+7465,SRI Capital
+7474,BBG Ventures
+7501,The Venture Reality Fund
+7482,Wamda Capital
+7487,Pontifax
+7485,Osage University Partners
+7506,Howzat Partners
+7508,HPE Growth Capital
+7519,Atlantic Labs
+7576,Blackbird Ventures (Australia)
+50,旦恩资本
+44,新电投资SingTel Innov8
+200,嘉御基金
+340,Georgian Partners
+409,Signia Venture Partners
+419,Homebrew
+519,Correlation Ventures
+511,Tribeca Venture Partners
+569,Northgate Capital
+651,Riverwood Capital
+715,鸿海集团Foxconn
+761,Science
+951,Frontline Ventures
+976,Altos Ventures
+1090,U.S. Venture Partners
+1151,BOLDstart Ventures
+1325,EDB Investments
+1368,Macquarie麦格理
+1454,Line
+1613,基因资本
+1685,天风证券(天风天睿)
+1692,动域资本
+1719,逐鹿资本
+1729,上海掌门科技
+1843,Business Growth Fund
+1883,国泰君安
+1871,MFund魔量基金
+1899,AA投资
+2056,同程旅游
+2234,太盟投资集团(PAG)
+2270,Adage Capital Management
+2266,华泰紫金-华泰证券
+2329,天创资本
+2365,中信证券
+2402,正保远程教育
+2584,鼎祥资本
+2709,英谊资本
+2744,OS Fund
+2827,清源德丰(清源创投)
+3026,火橙资本
+3035,中国平安
+3147,人保资本
+3628,永柏资本PGA Ventures
+4786,云和资本
+4831,泰恒投资
+5336,Uphonest Capital威诚资本
+5797,桃李创投
+6203,谷银基金
+6504,点亮基金
+6501,中国国有资本风险投资基金（国风投基金）
+6535,翰同资本
+6562,长岭资本
+6793,合肥高投
+6820,星辰资本
+6883,博世中国
+6900,精锐教育
+6984,华强资本
+7062,昊翔资本
+7114,引力资本
+7245,热点资本
+7314,高成资本
+7374,聚卓资本
+7397,SOSV
+3232,西高投
+7419,RB Investments
+7469,Credo Ventures
+7480,Xavier Niel
+7481,Precursor Ventures
+7489,India Quotient
+7503,HIVE Ventures
+7555,Andera Partners
+7587,GrowX Ventures
+7634,霍恩基金
+69,纽信创投
+154,集富亚洲JAFCO
+184,天奇阿米巴创投
+208,贝恩资本BainCapital
+249,盈峰资本
+272,梧桐树资本
+448,Mangrove Capital Partners
+505,Pitango Venture Capital
+480,Bullpen Capital
+628,Mithril Capital Management
+638,GREE Ventures
+694,Naspers
+791,Harrison Metal
+860,360 Capital Partners
+922,博雅互动
+1091,海通开元
+1119,H Capital
+1111,Lead Edge Capital
+1206,OpenView Venture Partners
+1239,Sunstone Capital
+1352,清控科创控股
+1554,RiverPark Ventures
+1607,游族网络
+1653,乾明投资
+1799,阅文集团
+1804,杭州多牛资本
+1915,清华控股
+1930,荣正投资
+1961,优客工场
+1987,帮实资本
+1994,聚秀资本
+1985,众为资本
+2073,天鹰资本
+2105,有成资本
+2170,国开金融(国开开元)
+2209,南山资本
+2284,Obvious Ventures
+2328,安持资本
+2488,鼎聚投资
+2512,众晖资本
+2553,汉鼎宇佑
+2548,万融资本
+2581,乔景资本
+4772,IMO Ventures
+5177,武岳峰资本
+5441,成都德商投资(德商资本)
+5727,理成资产
+6283,金库资本
+6672,京东金融千树资本
+6678,零度资本
+6698,中同资本
+6699,蓝图创投
+6765,易津资本
+6755,敦鸿资产
+6808,清科辰光教育基金
+6895,喜马拉雅
+6975,鸥翎投资
+7042,NutsCapital区块链基金
+7065,尚之诺投资
+7084,国仟创投
+7126,三泽创投
+7150,裂变资本
+7158,B Capital Group
+7233,百咖创投
+7351,海创会资本
+7401,Rajan Anandan
+7404,Highland Europe
+7467,Robert Bosch Venture Capital（博世海外）
+7473,Qualgro VC
+7479,Prelude Ventures
+7488,Level Equity
+7492,Dell Technologies Capital
+7510,Generation Investment Management
+6465,千山资本
+7553,Arboretum Ventures
+7545,Apple Tree Partners
+7601,Endiya Partners
+75,用友幸福投资
+170,凯雷亚洲基金
+183,泰岳梧桐资本
+358,Third Point Ventures
+450,White Star Capital
+591,Monashees Capital
+675,OMERS Ventures
+689,Global Brain
+747,SpeedInvest
+863,Kinnevik
+1141,Grishin Robotics
+1136,民生银行(民银国际)
+1428,Paladin Capital Group
+1429,Flipkart
+1481,湖畔山南资本
+1558,光信资本
+1725,全明星投资All-Stars Investment
+1796,琢石投资
+2185,发现创投
+2333,创丰资本
+2366,万科集团
+2543,丰元创投Amino Capital
+2574,中金甲子
+2642,亦联资本(YY多玩)
+2648,盛世投资
+2732,思科瑞新资本(思科资本)
+3060,中银投资
+3149,朗程资本
+3255,亦庄国际投资
+3426,中信建投资本
+3650,广东温氏投资
+4194,远望资本
+5409,绝了基金
+5442,鼎兴量子
+6443,兴旺投资
+6476,愿景资本
+6555,海朋资本
+6618,洪泰智造工场
+6813,东部资本(东部众创)
+7055,锐盛投资Ares Management
+7078,Target Global
+7106,元明资本
+7112,唐竹资本
+7147,23Seed思得投资
+7132,蓝焱资本
+7168,Cambridge Innovation Capital
+7193,甲子启航
+7203,银杏资本
+7240,Monsanto Growth Ventures(MGV)
+7326,薄荷天使基金
+7426,Fidelity Management and Research Company
+7418,Rally Ventures
+7433,MPM Capital
+7435,MDI Ventures
+1029,Draper Associates
+7523,Eclipse Ventures
+7551,Aleph
+7556,Novartis Venture Fund
+7561,Millennium Technology Value Partners
+7562,Longitude Capital
+7649,自贸区基金
+7647,天狼星资本
+7650,华盛一泓
+7530,Wipro Ventures
+51,苏河汇
+42,盘古创富VANGOO
+104,汉理资本
+196,景林投资
+176,极客帮创投
+246,北软天使基金
+311,雷雨资本(微投VChello)
+392,Ignition Partners
+408,LionRock Capital (Hong Kong)
+399,MHS Capital
+401,Learn Capital
+423,Promus Ventures
+434,Sierra Ventures
+497,和君资本
+513,Contour Venture Partners
+522,UPS Strategic Enterprise Fund
+508,TriplePoint Capital
+551,ff Venture Capital
+557,Dragoneer Investment Group
+595,Ludlow Ventures
+768,Crosslink Capital交联资本
+818,MMC Ventures
+939,天神娱乐
+966,Boston Seed Capital
+983,Amplify Partners
+1018,IBM
+1051,Walden International
+1070,Ascent Capital Group
+1122,Mousse Partners
+1214,NBC Universal(NBC环球)
+1250,中文在线
+1244,Global Founders Capital
+1393,易一天使
+1381,Great Hill Partners
+1437,Runa Capital
+1425,Allos Ventures
+1508,陶石资本
+1544,报喜鸟
+1781,Webb Investment Network
+1781,Webb Investment Network
+1848,东方证券(东方星晖)
+1900,东湖天使基金
+1943,丰实资本
+2021,集结号资本
+2079,太浩创投
+2083,搜狗
+2223,君紫资本
+2199,中金汇财投资
+2243,见证投资
+2250,Volition Capital
+2298,蚁米创投
+2280,南京紫金科创
+2356,沙丘资本
+2383,九宇资本
+2462,安龙基金
+2558,德诺资本DNV Capital
+2684,元航资本
+2723,精一天使公社
+2759,拍拍贷
+2761,拉夏贝尔
+2772,东方融润
+3047,东湖创投
+3038,国寿投资
+3077,泰康资产
+3154,国投创新
+3209,东证资本
+3237,火炬创投
+3351,银河吉星
+3361,远致投资
+3411,上海复容投资
+3600,奇伦创投
+3551,新龙脉控股
+3772,鼎辉投资
+3813,中川盛唐
+3934,黑蚁资本
+4540,索道投资
+4842,Jeneration Capital时代资本
+4876,邦明资本
+5494,蓝杉创投
+5607,海通创新资本
+5875,苏大天宫创投
+5992,拾玉资本
+6042,中航信托
+6135,易合资本
+6212,同舟投资
+6273,三峡资本
+6503,六翼投资
+6602,京基资本(京基集团)
+6659,澜亭资本
+6661,云晖资本
+6741,加拿大养老基金(CPPIB)
+6787,鼎信长城基金
+6803,仁弘资本
+6809,华青资本
+6846,中国银行
+6839,中金智德
+6827,丁香汇创投
+6894,联合创投
+6976,阿特列斯资本
+6989,岩木草投资
+7060,崇德弘信
+7031,青檬资本
+7103,罗煜资本
+7118,亦合资本
+7236,里程碑创投
+7231,M31资本
+7270,原力创投
+7306,帕拉丁资产管理
+7317,G5创新投资
+7327,翼朴资本
+7309,Edison Partners
+7362,和创资本
+7350,遵理资本
+374,华兴资本
+7376,慧科资本
+7385,DNA FUND
+7484,Celgene
+7472,Chan Zuckerberg Initiative
+7496,VenturEast
+7529,华和资本
+7578,Baird Capital
+7582,Impulse VC
+7654,Jackson Square Ventures
+7629,The Chennai Angels
+56,芳晟股权投资基金
+60,盛大资本
+114,创业接力(创业基金会)
+131,猎豹移动
+155,ClearVue锴明投资
+168,LB投资(LB Investment)
+286,Institutional Venture Partners
+271,秉鸿资本
+300,新天域资本
+304,Farallon Capital法拉龙资本
+327,Lowercase Capital
+377,博润投资
+376,Resolute.vc
+360,BlackRock
+369,CrunchFund
+373,Kapor Capital
+415,IA Ventures
+416,Right Side Capital Management
+429,Borealis Ventures
+478,Social Leverage
+498,Formation 8
+512,TTV Capital
+561,Inventus Capital Partners
+564,Viking Global Investors
+562,Mumbai Angels
+584,Connect Ventures
+622,Unilazer Ventures
+677,Raine Ventures
+755,New Leaf Venture Partners
+779,天星资本
+942,亚杰天使投资
+998,World Innovation Lab
+1088,Harmony Partners
+1142,Hyde Park Venture Partners
+1171,Talis Capital
+1223,和玉资本
+1205,Medtronic美敦力
+1249,森马服饰
+1255,.406 Ventures
+1269,Piton Capital
+1262,Square Peg Capital
+1296,Jerusalem Venture Partners(JVP)
+1351,Mizuho Venture Capital
+1383,龙腾资本
+1354,Lifeline Ventures
+1413,易车网
+1514,澳银资本
+1512,赛领资本
+1537,NSI Ventures
+1631,分众传媒
+1626,赛马资本
+1632,新湖中宝-新湖控股
+1682,磐谷创投
+1699,华旦天使投资
+1815,中关村发展集团
+1820,太平洋保险
+1824,FundersClub
+1931,德邦快递
+1952,奋达科技(泓锦文基金)
+1958,博汇源创投
+1990,兴业资管-兴业证券
+2197,探针创投
+2180,东方汇富
+2253,Cowboy Ventures
+2361,March Capital
+2468,峰尚资本
+2494,瑞力投资
+2518,中芯聚源资本
+2493,考拉基金(拉卡拉)
+2609,唯嘉资本
+2649,君创资本
+2747,中一资本 
+2742,新浚资本
+2879,渤海基金
+4007,通江投资
+4079,支点投资
+4270,赛智创投
+4268,建银医疗
+4421,华夏幸福(知合控股)
+4621,新浪
+4697,一号公路资本
+4952,北京生活性服务业基金
+5228,彬复资本
+5330,Welkin汇勤资本
+5462,科地资本
+6460,复星同浩
+6435,华住酒店集团
+6495,Female Founders Fund
+6547,一村资本
+6549,松柏资本
+6594,沣源资本
+6623,首建投资本
+6664,三千资本
+6663,庆芮资本
+6754,中美绿色基金
+6815,拼图资本
+6850,科零创投
+6923,浙大联创投资
+6908,领复资本
+6969,丝路华创
+7036,海峡资本
+7047,海阔天空创投
+7082,银盈资本
+7105,蓝枫资本
+7127,OpenOcean
+7111,置柏投资
+7174,云石资本
+7166,凯捷资本
+7202,三链资本
+7206,Grotech Ventures
+7217,华岭资本
+7214,平安资本
+7244,安元基金
+7267,上合资本
+7253,Spider Capital
+7312,上海拙朴投资
+7363,基石创投
+7346,华迎资本
+7390,东方国狮
+7402,Tola Capital
+7407,Tao Capital Partners
+7411,Tandem Capital
+7447,Section 32
+7456,DSG Consumer Partners
+7499,Top Tier Capital Partners
+7507,渤溢基金
+7509,Breega Capital
+7528,Daphni
+7520,Endure Capital
+7526,SGVC
+7566,希夷资产
+6607,方和资本
+7536,Cota Capital
+7577,Windham Venture Partners
+7573,Boehringer Ingelheim Venture Fund
+7583,Ascension Ventures
+7588,Groupe Arnault
+7631,深圳湾天使基金
+7673,英溢资本
+7700,价值资本
+7694,Rosecliff Ventures
+58,时尚传媒(时尚资本)
+115,曼图资本Mandra Capital
+164,蓝色光标
+240,唯品会
+362,Wellington Management
+410,Otium Capital
+424,DN Capital
+398,Bertelsmann贝塔斯曼(国外)
+449,IBB Beteiligungsgesellschaft mbH
+474,Seraph Group
+532,Point Nine Capital
+527,Lumia Capital
+550,Itochu Technology Ventures
+575,Anthemis Group
+593,Digital Garage
+642,Freestyle Capital
+728,天明集团
+770,The Walt Disney Company迪士尼
+794,Maven Ventures Growth Labs
+814,Atlantic Bridge
+852,Summit Partners
+853,Blumberg Capital
+885,Revolution Ventures
+877,Kima Ventures
+1001,Crosscut Ventures
+1015,日本乐天Rakuten
+1055,Structure Capital
+1046,Avalon Ventures
+1075,Sinar Mas Group/金光集团
+1130,Incubate Fund
+1165,翰潭投资
+1208,TPG Biotech
+1312,优酷
+1355,Earlybird Venture Capital
+1491,艾瑞资本(艾瑞)
+1502,海汇投资
+1515,Slack
+1536,StartX
+1646,七海资本
+1735,Unilever Ventures
+1830,盛世景投资
+1805,沃尔玛WalMart
+1923,中钰资本
+1902,万达电影
+1885,盛宇投资
+1947,创维集团
+1935,顺融资本
+1968,智度股份
+1986,百姓网
+1977,Airbnb
+2061,恒泰华盛
+2067,佳都科技
+2085,海泉基金(胡海泉)
+2110,金蝶国际
+2100,高樟资本
+2120,西科天使基金
+2138,泰格医药
+2247,Wellington Partners
+2376,京西创投(首钢基金)
+2401,安赐资本
+2411,谆朴投资
+2442,集素资本
+2517,华创投资
+2576,方创资本
+2557,飞图创投
+2598,金茂资本
+2669,齐一资本
+2690,成都市技术转移集团
+2697,鼎翔资本
+2729,劲邦资本-劲霸男装
+2767,鸿金投资
+2779,宁波天使投资引导基金
+2953,用友网络
+2986,中金集团
+2953,用友网络
+3036,中银国际
+3085,平安资产
+3137,伯恩资本
+3163,加华伟业
+3242,粤财创投
+3632,平安海外控股
+4231,万豪投资
+4367,紫竹创投
+4898,科鑫投资
+5092,国际创投
+5117,四川文化产业股权投资基金
+5196,中汇金
+5491,可可资本
+5966,光远资本
+5979,龙庆投资
+6493,有米广告
+6496,Blue Pool Capital(阿里巴巴)
+6617,中骏资本
+6614,本翼资本
+6630,昂若资本
+6614,本翼资本
+6725,酉金资本Regent Capital
+6747,天安金控
+6834,信达风
+6874,嘉德资本
+6872,张江集团
+6926,元迅投资
+6897,一下科技(秒拍)
+6948,国信国投
+6930,东兴资本
+6991,创赛基金
+7014,创璟资本
+7025,星路资本
+7010,瑞健资本
+7089,国民创投
+7096,紫峰资本
+7123,本体全球资本（OGC）
+7131,中楷投资
+7136,大钲资本
+7151,公信资本
+7175,清源资本Tsingyuan Ventures
+7212,银虎资本
+7271,东方世旗
+7304,诚美创投
+7352,链豆资本
+7428,Eurazeo
+7432,Maniv Mobility
+7466,Elevar Equity
+7476,Asset Management Ventures
+7470,BGF Ventures
+7464,Emerson Collective
+7478,Zetta Venture Partners
+7498,NanoDimension
+7494,Convergence Ventures
+7535,Vitruvian Partners
+7569,建信信托
+7572,iAngels
+7565,Liberty City Ventures
+7585,Arab Angel Fund
+7593,Geodesic Capital
+7584,High Alpha
+7603, 浩德资本
+7605,Abstract Ventures
+7609,Dolby Family Ventures
+7602,Afore Capital
+7615,Cisco Investments
+7611,Courtside Ventures
+7636,巴克莱银行
+6913,蓝烯资本
+2117,徽瑾创投
+7679,绿地集团
+40,中路资本
+110,璞玉投资Jade Invest
+136,华瓯创投
+179,奥飞娱乐
+186,星辉互动娱乐
+215,浙创投
+230,海通创意资本
+274,创业邦天使基金
+312,Francisco Partners
+291,FLOODGATE Fund
+323,SJF Ventures
+324,Apple苹果
+325,NTT Docomo Ventures
+346,Golden Venture Partners
+344,Version One Ventures
+356,SAP Ventures
+372,Fuel Capital
+386,SEB Private Equity
+405,TripAdvisor
+469,中南资本
+479,Venture51
+458,Social Starts
+495,凯兴资本
+524,Thomvest Ventures
+552,Mitsubishi UFJ Capital
+578,Northwestern Mutual
+631,广联达
+611,Premji Invest
+671,Walden Riverwood Ventures
+658,Magma Venture Partners
+654,Daher Capital
+700,New York Angels
+696,Mercury Fund
+690,Globis Capital Partners
+743,龙城英才创投
+756,New Science Ventures
+759,Valhalla Partners
+763,Metamorphic Ventures
+822,Rethink Education
+857,HealthCare Ventures
+903,Genesis Partners
+894,Warner Bros.华纳兄弟
+882,Spotify
+962,QuestMark Partners
+1026,联想集团
+1042,Catalyst Investors
+1065,CME Group
+1066,Knight Foundation
+1053,Plaza Ventures
+1113,联发科MTK
+1220,DG Incubation
+1200,IPV Capital/盈富泰克
+1281,I2BF Global Ventures
+1285,Kickstart Seed Fund
+1293,Prime Ventures
+1295,Playfair Capital
+1316,腾邦国际
+1308,NewSpring Capital
+1306,Nippon Venture Capital
+1347,欢聚时代(YY多玩)
+1408,源政投资
+1439,恺英网络
+1452,21st Century Fox
+1446,Advancit Capital
+1474,MindWorks Ventures概念资本
+1466,万达集团
+1461,同渡资本
+1499,正和岛正和磁系资本
+1507,科达股份/科达集团
+1517,云山资本
+1539,AirTree Ventures
+1583,途牛旅游网
+1555,彩生活
+1569,K9 Ventures
+1654,四维图新
+1695,Voyager Capital
+1696,Alliance of Angels
+1713,QED Investors
+1761,疆域资本
+1757,神州租车
+1765,约瑟投资
+1773,磐石资本
+1780,方源资本
+1825,Streamlined Ventures
+1864,RIC棕泉资本
+1854,春风创投(春雨医生)
+1881,凯启投资
+1894,华联股份
+1864,RIC棕泉资本
+1881,凯启投资
+1916,麦腾创投
+1974,盖娅互娱
+1971,聚心资本
+1978,东方网力
+1989,正海资本
+2038,金葵花资本
+2071,云毅投资
+2046,宋城演艺
+2126,每日优鲜
+2156,Romulus Capital
+2196,上海物联网创业投资基金
+2225,东方资产
+2249,建投华科
+2255,Peninsula Ventures
+2300,飞博共创
+2339,田仆资产
+2311,九阳股份
+2363,中国人寿
+2441,联科创盈
+2445,海邦投资
+2464,七匹狼
+2470,国灏创投
+2483,顺禧基金
+2523,艾想投资
+2522,红珊瑚资产
+2500,普禾资产
+2545,红秀资本
+2531,玖创资本
+2566,三江资本
+2583,文轩资本
+2600,易云投资
+2611,民航股权投资基金
+2616,壹壹天使
+2629,国成投资
+2641,能图资本
+2626,阳光融汇资本
+2692,富坤创投
+2667,浙大科发
+2692,富坤创投
+2702,合一资本
+2740,去玩资本
+2739,九弦资本
+2760,共建创投
+2781,海德资本
+2794,四维资本
+2818,泰达科投
+2812,德意志银行
+2822,中信国安集团
+2899,上海联和投资
+2913,横店资本
+2962,湖南高新创投集团
+2999,瑞华控股
+3062,同晟创投
+3123,华融融德
+3170,国盛里昂投资
+3219,元大创投
+3253,浚源资本
+3259,招商证券
+3270,银河投资(银河资本)
+3346,前海勤智资本
+3337,易联资本
+3393,同方创投
+3422,方正和生投资
+3508,乾融创投
+3493,西域投资
+3538,潜龙投资
+3596,诚和创投
+3606,共赢投资
+3668,上海国和投资
+3692,汇投资本
+3674,先锋投资
+3681,曲江风投
+3755,科力投资
+3759,诚毅投资
+3793,海丰至诚
+3959,中新创投
+4129,贝加资本
+4149,云鼎资本
+4159,世纪资本
+4197,清华创投
+4323,合全投资
+4407,联升资本
+4439,江诣创投
+4664,广道创投
+4665,农银投资
+4770,UBS瑞银
+4821,瑞和创投
+4868,银联融资
+4918,前海长城基金
+5020,新华联集团
+5039,乾然资本
+5188,德宝投资
+5232,SMG上海文广
+5325,广东文化产业投资
+5302,国创开元母基金
+5367,首泰金信(首泰投资)
+5398,富鼎和
+5451,中金佳泰
+5488,金控投资
+5495,成都高投创投
+5549,易德信投资
+5558,大航海基金
+5696,珞珈创新天使基金
+5792,中金启元
+5849,凌越资本
+5881,诺亚信
+6052,民生通海(民生证券)
+6073,未然资本
+6098,嘉惠投资
+6128,滨海基金
+6152,创金资本
+6433,道格资本
+6471,Kensington Capital Partners
+6511,贝森资本
+6537,永洲创投
+6544,国宏嘉信
+6603,健桥资本
+6627,杭州胜辉投资
+6646,国美资本
+6688,3W Partners
+6665,英华资本
+6674,国开国际投资
+6671,Withinlink碚曦投资
+6679,启承资本
+6707,富强资本
+6703,尚融资本
+6760,红山基金
+6770,前海恒昇基金
+6764,丰盛资本
+6757,时龙资本
+6794,儒艺资本
+6795,高鹏资本
+6840,中植资本
+6826,新希望集团
+6847,阿法仕资本 Alphashi
+6877,BitAngel比特天使基金
+6904,麓谷高新创投
+6922,创想天使
+6922,创想天使
+6956,沂景投资
+6977,上古资本
+6963,中青旅红奇基金
+7028,和壹资本
+7003,Plutus区块链基金
+7063,新声资本
+7056,蓝海资本BOCG
+7057,蓝海众力资本
+7046,弘章资本
+7051,WestBridge Capital
+7110,清泉石资本
+7113,正唐资本
+7088,华新世纪
+7124,J One Capital
+7120,星空资本
+7134,德龙资本
+7162,小白资本
+7200,识贝资本
+7242,方皋创投
+7264,论道投资
+7283,华宏资产
+7334,征和惠通
+7359,千佳圆资本
+7360,lakecapital泽悦资本
+7365,光毅资本
+7368,BASF巴斯夫
+7355,国开熔华
+7399,83North
+7409,Corigin Ventures
+7443,Sistema Venture Capital
+7483,XL Innovate
+7490,Capnamic Ventures
+7491,泰亚鼎富
+7505,Sterling.VC
+7541,呈瑞投资
+7540,RTP Ventures
+7570,Innovation Network Corporation of Japan
+7564,Listen Ventures
+7580,BECO Capital
+7592,Angel CoFund
+7606,ECA Ventures
+7581,Inbox Capital
+7619,北大明德基金
+7614,Connecticut Innovations
+2719,广东天使会
+7709,至合资本
+135,架桥资本
+140,凯旋创投
+141,掌趣科技
+125,光线传媒
+124,Sorenson Capital
+173,InnoSpace创智空间
+171,搜狐
+210,JAIC日本亚洲投资
+218,真顺基金
+263,中科招商
+276,开物投资
+326,Octopus Investments
+322,Cisco思科
+375,Collaborative Fund
+359,埃森哲Accenture
+382,Dawn Capital
+384,American Express美国运通
+385,MasterCard万事达
+436,东软创投
+439,Lightbox Ventures
+477,Fontinalis Partners
+492,Arbor Ventures乔木创投
+535,Tengelmann Ventures
+526,Rocket Internet
+617,Blackbird
+582,DAG Ventures
+652,Rincon Venture Partners
+680,Commerce Ventures
+704,Adams Street Partners
+705,Triangle Peak Partners
+713,夏鼎资本
+717,利欧集团股份
+767,News Corp
+767,News Corp
+785, Alta Partners
+910,北京马力天使投资中心
+874,智联招聘
+956,Radar Partners
+1033,Episode 1 Ventures
+1040,Shea Ventures
+1038,TEEC Angel Fund
+1084,Time Warner时代华纳
+1049,Storm Ventures
+1118,慧聪网
+1089,Iris Capital
+1163,Access Industries
+1186,Rhodium
+1183,厦门国贸控股
+1197,Portland Seed Fund
+1204,New Markets Venture Partners
+1231,Frontier Capital
+1259,TVC Capital
+1247,紫光集团有限公司
+1259,TVC Capital
+1277,Relay Ventures
+1265,Camden Partners
+1284,Fairhaven Capital Partners
+1370,崇德投资
+1350,DBJ Capital
+1414,富春通信
+1392,小马蜂创投
+1460,博派资本
+1500,博叡创投
+1472,天鸽互动
+1532,易居资本
+1597,绿盟科技
+1574,uber
+1611,创享投资
+1662,蓝山中国资本
+1663,联新资本
+1645,峰谷资本
+1659,麒麟资本Kylin Capital
+1672,小村资本
+1701,六禾创投
+1732,Tekton Ventures
+1733,光谷创业咖啡
+1738,易孚泽投资-林广茂
+1785,天使汇
+1872,盛万投资
+1887,红谷资本
+1919,华夏人合资本
+1955,太和投资
+1992,中国诚通
+2008,达内科技
+2007,华西股份(华西村)
+2033,联想控股
+2053,浙江传化股份有限公司
+2055,Rockaway Capital
+2077,融创投资
+2142,银江股份(银江资本)
+2116,伯乐纵横投资
+2166,宝宝树
+2194,西京投资
+2206,中广文影
+2302,中搜网络-中搜创投
+2368,TalkingData腾云天下
+2370,Founders Circle Capital
+2364,广汽集团
+2414,鼎锋资产
+2405,体育之窗
+2443,维度资本(维度创业工场)
+2485,中金前海发展基金
+2481,seedvc
+2541,励石创投
+2540,点点客
+2573,东博资本
+2632,指数资本
+2643,国富绿景创投GRC
+2657,穆棉资本
+2660,汉铎投资
+2698,东方网络(广陆数测)
+2749,乐奕创投
+2793,新世界策略投资
+2778,中科创
+2803,大华创投
+2839,泛海投资
+2882,红石资本
+2981,智朗创投
+3007,金海创投
+3100,汇友资本
+3126,陕西文化产业投资
+3208,崇石投资
+3252,洪晟观通基金
+3301,淳信资本
+3317,竞远投资
+3466,徐汇科投
+3532,百纳资本
+3583,同兴财富
+3584,华健创投
+3601,以正资本
+3642,点石资本
+3683,长润资本
+3663,倚锋创投
+3757,雨和资本
+3818,正道投资
+3907,一道创投
+3953,恒毓投资
+3957,创见资本
+4006,七弦投资
+4058,红豆投资
+4084,滨海创投
+4349,创创基金
+4355,复朴投资
+4384,1898创投
+4501,嘉信投资
+4638,钛和投资
+4674,海石投资
+4711,博伟智鸿投资
+4834,昆仑资本
+4829,广润创投
+4874,上创新微
+4944,贵阳高新投
+4981,宏兆集团-宏兆基金
+5171,伯乐遇马天使投资
+5244,北广文资歌华基金
+5301,汉明达基金
+5313,扬子投资
+5328,明照资本
+5427,淳元资本
+5439,国盛金控(华声股份)
+5515,西子联合
+5522,山东红桥创投
+5598,春天创投
+5687,恒兴资本
+5721,康成亨投资
+5758,中诚信投资
+5816,德乾投资
+5796,元创资本
+5862,同创创投
+5880,杉杉创晖
+5904,缘创派
+5943,河北沿海产业投资基金
+6005,润浙资本
+6088,海林投资
+6338,辰韬资本
+6326,青瓦资本
+6417,乾元资本
+6427,企源科技
+6499,Ford福特汽车
+6486,Kaedan Capital
+6510,图灵资本
+6564,知新资本
+6593,引爆点资本
+6570,港粤资本
+6622,智诚资本
+6608,中科创客学院
+6615,契阔资本
+6666,紫金汇创投
+6662,多维资本
+6650,小咖资本
+6670,嘉铭浩春
+6691,德威资本
+6675,国泰瑞丰
+6790,大一资本
+6799,安佰深Apax Partners
+6806,星链资本
+6843,人保远望
+6841,中植集团
+6849,区块链产业基金
+6861,首科文创
+6899,小站教育
+6901,场景实验室
+6940,华图资本
+6958,东资基金
+6959,长融资本
+6960,道远资本
+6954,安托资本
+6979,领军创投
+6992,信得宝创投
+6973,宸极投资
+7023,复星创富
+7008,基岩资本
+7034,安达富资本ADV Partners
+7049,财通资本
+7081,万世资本
+7070,新世界集团
+7145,普丰基金
+7146,华创深大投资
+7139,德弘资本
+7155,巴特恩资本
+7164,符号资本
+7171,三峡鑫泰
+7213,数字启蒙资本
+7256,贵人资本
+7268,君灏资本
+7319, 棱镜资本
+7324,稳正资产
+7315,驰星创投
+7416,Hasso Plattner Ventures
+7425,Flagship Pioneering
+7453,Seaya Ventures
+7532,可口可乐
+553,盖茨基金会（Bill & Melinda Gates Foundation）
+7548,Openspace Ventures
+7563,Bullish
+7579,Indian Angel Network
+7589,Ankur Capital
+7600,First Analysis
+7610,Designer Fund
+7591,Globevestor
+7612,Corazon Capital
+7635,聚合资本
+7648,Local Globe
+7685,盛泉资产
+7680,盈港资本
+7690,国创投资
+7703,中自投资
+101,巨人网络(巨人创投)
+118,KTB投资集团
+99,HAX
+116,比特基金BitFund.PE
+123,思伟投资
+166,创东方投资
+223,中兴合创
+241,金山软件
+305,Maverick Capital
+345,Caixa Capital Risc
+420,Flybridge Capital Partners
+435,斯坦福Stanford
+473,Launch Capital
+558,网信集团
+555,Birchmere Ventures
+563,Oaktree Capital橡树资本
+615,Rembrandt Venture Partners
+643,Canvas Ventures
+644,Smedvig Capital
+669,诺亚财富
+662,North Bridge Venture Partners
+729,Trilogy Equity Partnership
+725,NextView Ventures
+691,GMO Venture Partners
+753,Reed Elsevier Ventures
+834,MSD Capital
+836,Susquehanna Growth Equity（SIG）
+830,Entrepreneur Venture
+897,Blue Cloud Ventures
+952,Nike
+990,基本粒子
+1027,Smile Group
+1037,Sherpalo Ventures
+1052,UOB Venture
+1067,AngelList
+1104,Baseline Ventures
+1138,Silver Creek ventures
+1145,North Coast Angel Fund
+1156,Alpha Capital
+1167,Activant Capital
+1178,Arthur Ventures
+1209,FireEye
+1196,Rogue Venture Partners
+1207,Claremont Creek Ventures
+1203,Updata Partners
+1246,Motorola Solutions Venture Capital
+1270,Texas Atlantic Capital
+1266,Cambia Health Solutions
+1327,TenOneTen Ventures
+1319,Tech Coast Angels
+1365,力合清源
+1374,暴龙资本
+1388,青云创投
+1399,Spectrum Equity
+1418,天使投资人王刚
+1433,信雅达
+1496,金石投资
+1538,百奥财富
+1516,虎扑
+1533,Alliance Venture
+1592,三泰控股
+1581,贝雅资本
+1638,熙金资本
+1644,易凯资本
+1669,杉杉创投
+1689,远翼投资
+1669,杉杉创投
+1718,风云资本
+1771,鼎峰资本
+1774,广东文投国富
+1797,时代地产
+1827,美的集团
+1839,Gilde Healthcare Partners
+1896,恒生电子
+2011,周大福VMS Legend Investment
+2020,晶凯资本
+2024,越榕资本
+2063,凤博投资
+2104,宝马金融
+2169,乐创会
+2162,佳一教育
+2172,百合网
+2187,中国移动(中移创新产业基金)
+2219,汇丰银行HSBC
+2263,嘉道谷投资(龚虹嘉)
+2276,Reaktor Ventures
+2263,嘉道谷投资(龚虹嘉)
+2276,Reaktor Ventures
+2295,浙江金科
+2285,清华x-lab创业DNA基金
+2309,金慧丰投资
+2432,墨白资本
+2417,升达林业
+2452,韬蕴资本
+2482,熠帆资本
+2491,世纪长河集团
+2530,联络互动
+2562,首业资本
+2559,远致富海
+2538,泛海控股
+2591,Abraaj Group
+2570,七煋瓢虫投资
+2614,骊悦投资
+2607,卓尔集团
+2612,凯撒旅游
+2652,遨问投资
+2675,远东控股集团
+2687,沃富金信
+2738,EMC媒体基金
+2766,途家
+2846,海富产业投资
+2829,上海信投
+2888,第一东方
+2878,光谷创投
+2903,优势资本
+2942,九洲创投
+3029,颐和资本
+3037,亚东星辰
+3044,博睿创投
+3056,中欧创投
+3105,中广核产业基金
+3144,众合创投
+3132,海达投资
+3189,巨峰科创
+3246,中银浙商
+3471,高和资本
+3471,高和资本
+3486,德韬资本
+3543,上海越银投资
+3590,投中资本
+3592,温商创投
+3651,复之硕资本-安硕信息
+3740,诺伟其创投
+3928,开源投资
+3921,经开科投
+3909,拓邦投资
+3973,大通资本
+4138,燕园创新投
+4218,华融天泽-华融证券
+4265,今玺创投
+4276,百度资本
+4318,头狼资本-头狼金服
+4356,盛世方舟
+4373,浙江富润股份
+4537,淮安创投
+4523,首创投资
+4537,淮安创投
+4725,鼎富基金
+4843,贵阳创投
+5090,泓御资本
+5474,华金资本(力合股份)
+5502,京道基金
+5679,胖猫创投(找钢网)
+5713,弘治资本
+5697,江苏泰华
+5773,高正创投
+5778,鼎金资本
+6060,海捷投资
+6130,国影投资
+6261,汇盈博润
+6383,一方投资(一方集团)
+6458,吉富创投
+6461,挚金资本
+6451,ARTIS Ventures
+6546,君同资本
+6554,汇添富
+6554,汇添富
+6578,伽利略资本
+6606,君合资本
+6586,清晗基金 
+6642,磐晟资产
+6643,天赋资本
+6660,知行资本
+6782,中域资本
+6772,沣扬资本
+6785,千帆资本
+6838,泰豪集团(泰豪投资)
+6867,壹诺创投
+6869,启诚资本
+6887,饿了么
+6870,之宝创投
+6927,华侨基金
+6932,星河控股集团
+6929,创伴投资
+6912,苏民投
+6946,国投创合
+6946,国投创合
+6970,高朋资本
+6971,Astar Fund
+7001,镜湖资本
+6986,中孵创投
+7040,Venturous
+7090,广州基金
+7102,杏泽资本
+7093,新湃资本
+7108,柒壹资本
+7177,睿盟希资本
+7209,中和资本
+7226,JMCR家族办公室
+7255,Western Digital
+7261,助力资本
+7284,銘丰资本
+7301,千毅资本
+7328,允治资本
+7329,元真价值投资
+7333,北航投资
+7329,元真价值投资
+7337,兼固资本
+7356,长虞资本
+7369,中信文化资本
+4001,东方银石
+7379,蜂巢资本(凯信投资)
+7417,Glilot Capital Partners
+7415,Silverton Partners
+7471,Capital Factory
+7504,Struck Capital
+7544,Quona Capital
+7549,Alpha JWC Ventures
+7547,Primary Ventures
+7557,Acequia Capital
+7574,悦达集团
+7594,极星资本
+7575,YL Ventures
+7586,Hambro Perks
+7597,Flint Capital
+7616,Sandbox Industries
+7623,澜峰资本
+7618,Walden Venture Capital
+7626,Toba Capital
+7651,Kejora Ventures
+5297,大都会资本
+7666,瑞士信贷
+7646,嘉定创投
+7667,赛天资本
+7661,连创资本
+7684,SignalFire
+7697,光大富尊
+24,K2基金
+38,江南资本
+53,上海融翼资本
+112,人人公司(千橡集团)
+149,WPP集团
+142,华谊兄弟
+162,初创投资
+187,UCWEB优视科技
+189,斯凯网络投资
+201,完美世界
+226,智基创投IDT VC
+211,泰山兄弟创始基金
+227,JJ比赛(竞技创投)
+222,麦顿投资
+207,雷军-顺为创业
+247,大众点评网
+266,贵阳朗玛信息
+251,华欧创投基金
+235,空中网
+238,韩都衣舍
+270,好望角投资
+282,迅雷
+301,德福资本GL Captal
+289,三井物产环球投资
+294,ROTH Capital
+321,International Finance Corporation
+313,Unified
+353,eVentures
+365,华澳资本
+365,华澳资本
+363,金鹰商贸集团
+353,eVentures
+361,Pine River Capital Management
+397,University Venture Fund
+389,Vaizra Investments
+400,Mitsui & Co. Global Investment
+422,Anthem Venture Partners
+417,Palo Alto Venture Science
+413,Laboratory Corporation of America
+454,共达电声
+438,Marker llc
+447,Passport Capital
+475,FF Angel LLC
+461,Sherpa Foundry
+465,Community Newspaper Holdings
+501,Goldcrest Investments
+487,Creative Artists Agency
+488,Acxiom
+490,Start Fund
+475,FF Angel LLC
+499,Valiant Capital Partners
+501,Goldcrest Investments
+518,Lerer Ventures
+530,Kreos Capital
+560,粤传媒
+536,Team Europe
+538,Phenomen Ventures
+540,Spark Nigeria
+543,Glynn Capital Management
+546,Manatt Venture Fund
+549,Suneight Investment
+598,Village Ventures
+599,Five Elms Capital
+583,Oak Investment Partners
+565,zPark Venture
+580,Lending Club
+573,Nikkei Business Publications
+596,Persefon Ventures
+618,Twitter
+573,Nikkei Business Publications
+618,Twitter
+609,eBay
+627,Scout Ventures
+620,Blackberry黑莓
+635,Sherpa Ventures
+647,鹿港科技
+672,IndusAge Partners
+664,Sparkbox Ventures
+716,Jawbone
+718,Giza Venture Capital
+719,Gemini Israel Ventures
+698,Arcadia Home Care
+710,Jafco Ventures
+712,18 Partners
+724,LaunchTime
+702,Reddit
+720,Brunswick
+741,去哪儿
+746,Nokia诺基亚
+737,Elaia Partners
+724,LaunchTime
+720,Brunswick
+782,中文传媒
+788,新文化
+793,Vegas Tech Fund
+795,Allegro Venture Partners
+766,AITV - AccelerateIT Ventures
+777,Odyssey Venture Partners
+801,Lifeforce Ventures
+784,The Mustang Group
+823,NewSchools Venture Fund
+824,Discovery Communications
+813,Yellow Brick Capital Advisers (UK) Limited
+805,Salmon River Capital
+821,Bowery Capital
+838,Accion’s Frontier Investments Group
+826,Petco
+806,The Raine Group
+875,Carmel Ventures
+861,Active Venture Partners
+862,Nokia growth partners(海外投资)
+859,MentorTech Ventures
+839,TA Ventures
+840,RI Digital Ventures
+849,B Dash Ventures
+856,Greenspring Associates
+871,Digicel
+865,Extend Capital
+878,复思资本
+879,国润祁连
+905,UMC Capital联电资本
+898,天润控股
+900,Priceline
+895,MK Capital
+907,Beckman Group
+880,CarSales
+892,Delta Partners
+924,梅花伞
+926,农银无锡股权投资基金
+924,梅花伞
+926,农银无锡股权投资基金
+914,江畔投资(阿里巴巴)
+912,上海塔人网络
+905,UMC Capital联电资本
+918,大唐电信
+938,UMeWorld
+960,Kibo Venture
+943,北京明致无限科技
+941,世纪华通
+957,Bridgescale Partners
+968,Middleland Capital
+970,启明星辰
+978,Stonebridge Capital
+981,Lazerow Ventures
+980,秀强股份
+972,澳洲电信投资
+999,PLUS Ventures
+1000,Mixin Capital
+997,GSN
+1023,Capstone Partners
+1025,AOL美国在线
+1007,Path
+1008,Laconia Ventures
+1035,Groupon
+1028,AngelPrime
+1034,Samos Investments
+1021,Banco Bilbao Vizcaya Argentaria
+1014,Secret Escapes
+1041,Alloy Ventures
+1068,Launch Fund
+1064,若水合投
+1043,W Capital Partners
+1062,万达信息
+1106,Transslink Capital
+1108,XG Ventures
+1115,键桥通讯
+1101,LinkedIn
+1102,Zynga
+1098,珠海长实资本
+1126,Angel Ventures Mexico
+1098,珠海长实资本
+1106,Transslink Capital
+1124,Commercialisation Australia
+1176,都福集团
+1161,美蓝投资
+1188,TMT Investments
+1148,金刚玻璃
+1193,Himalaya Capital Ventures
+1135,Elevation Partners
+1184,Qualitas Equity Partners
+1168,Difference Capital
+1222,张江火炬创投
+1198,搜房网
+1199,兰亭集势
+1215,Windsor Media
+1216,Raven Capital
+1236,XSeed Capital
+1212,PS27 Ventures
+1228,ScribbleLive
+1202,Pinterest
+1251,新华网
+1260,Access Venture Partners
+1263,Vanedge Capital
+1275,ABS Capital Partners
+1268,神州信息
+1264,High Peaks Venture Partners
+1257,Digital Magics
+1254,Advance Publications
+1286,惠普
+1315,CardCash.com
+1309,IMJ Investment Partners Pte. Ltd
+1310,Red Dot Ventures
+1302,Upstate Carolina Angel Network
+1283,ICG Ventures
+1292,Zillow
+1331,世纪互联
+1340,五甲万京
+1341,Optus Innov8
+1346,百视通
+1356,志成资本
+1357,光合创投(光合基金)
+1349,825新媒体产业基金
+1340,五甲万京
+1341,Optus Innov8
+1346,百视通
+1378,华盛基金
+1380,Tembusu Partners
+1372,早鸟基金
+1394,东华软件
+1395,Shutterfly
+1384,松树资本
+1438,SolarCity
+1431,新宁物流
+1436,康达尔集团
+1401,红石诚金
+1421,烽火通信
+1405,Sigma West
+1462,天音通信
+1463,KiwiTech
+1431,新宁物流
+1462,天音通信
+1463,KiwiTech
+1464,歌华有线
+1473,三胞集团
+1470,西证股权投资
+1471,亿信投资
+1483,VSCO
+1485,创新公园
+1465,Aeria Games
+1478,基本概念BiCi启孜
+1479,Rebright Partners
+1480,野马国际
+1504,米仓资本
+1505,飞利信
+1501,学大教育
+1498,恩惟资本
+1488,Tinder
+1518,岩桥投资
+1520,湖南电广传媒
+1520,湖南电广传媒
+1528,上海综艺控股
+1535,友利控股
+1541,Canon佳能
+1586,绿网天下
+1587,丰瑞投资
+1582,FLAG Capital Management
+1553,Lyrical Partners
+1566,光华弘人资本
+1593,Dreamit Ventures
+1546,Eutelsat欧洲卫星通信
+1601,神州付
+1596,坚果创投
+1605,乐游资本
+1598,汉威电子
+1642,阿里影业(阿里巴巴)
+1609,蓝鼎控股
+1655,惠泽天下创投
+1683,尚心资本
+1684,罗莱家纺
+1679,Seed Capital
+1681,P101
+1665,数元创投-宇海数园
+1658,中兴国投
+1651,挚盈资本
+1678,I2A Fund
+1693,嵩山资本
+1697,洋葱基金
+1687,火柴快鹿投资基金
+1716,Siemens Venture Capital
+1717,欧拉资本Euler Capital
+1714,Highway 12 Ventures
+1746,飞鱼科技
+1740,世铭投资
+1755,长城影视
+1737,XAnge Private Equity
+1720,合一天使基金
+1724,AB资本-AB Capital
+1726,先锋新材
+1764,湾海投资
+1768,葳尔资本
+1770,Scottish Equity Partners
+1772,易方达基金
+1776,瑞业投资
+1791,艾云创投
+1786,金固股份
+1817,民享财富
+1818,丰图资本
+1807,英雄互娱
+1808,财晟资本
+1821,数码视讯
+1822,Bobby Yazdani
+1798,招商和腾创投
+1801,涌金集团
+1812,狮享家新媒体基金
+1792,汤臣倍健
+1819,Draper Triangle
+1828,APUS
+1829,时代伯乐
+1841,TVM Capital Life Science
+1840,Bridge Ventures
+1841,TVM Capital Life Science
+1842,Advent Life Sciences
+1858,上海羽时资本
+1859,上医养生
+1834,蘑菇街
+1836,捷成世纪
+1895,国金证券
+1869,聚腾时尚产业基金
+1873,新鼎明影视投资
+1867,创投圈拓璞基金
+1928,知初资本
+1910,好大夫在线
+1911,顶尖学院孵化器
+1897,雷锋网
+1909,凯美特气
+1933,海淀国投
+1906,雄九资本
+1945,禹杉投资
+1957,中科乐创
+1953,国光电器
+1956,海航资本
+1941,复聚投资
+1959,银来集团
+1936,众米资本
+1950,东方港湾
+1964,瀚晖投资
+1965,荣之联
+1966,团贷网
+1975,e袋洗众创共享基金
+1976,酷6网
+1972,乐邦乐成
+1973,度周末
+1970,联众世界-联众游戏
+1979,大北农集团
+1982,英飞拓
+1984,沃捷传媒
+1993,中南文化
+2036,稳国基金
+2012,中瀛鑫
+1998,吴中创投
+2034,淘米网络
+2023,天地资本
+1995,联创股份
+2039,中富投资
+2027,云脑基金
+2062,华资汇投资
+2068,上海喜氏金融
+2070,鼎智集团
+2057,FDT金融创新工场
+2059,乐动卓越
+2047,卫宁软件(卫宁健康)
+2054,力帆集团
+2097,金鼎盛投资
+2099,康耐特
+2130,银翎资本Silverlink Capital
+2089,厚德创新谷
+2121,兴铁富江产业投资基金
+2112,心动游戏
+2149,万豪国际
+2145,士兰创投(士兰控股)
+2152,合众集团
+2141,华犇创投
+2144,博时资本(博时基金)
+2121,兴铁富江产业投资基金
+2178,启创资本(浙江天德创投)
+2179,左驭资本
+2174,杭州言和投资
+2157,源石资本
+2154,南派泛娱
+2181,中手游
+2182,Brentwood Associates
+2159,嘉达早教
+2164,ironSource
+2186,聚宝网络
+2190,环球易购
+2192,Catterton
+2198,Donews多牛传媒
+2202,大米创投
+2188,光谷联合
+2216,罗斯柴尔德家族
+2193,Finnvera Venture Capital
+2224,润土投资
+2218,Blue Sky Capital
+2220,首旅酒店集团(首旅如家)
+2226,猪八戒网
+2227,春泉创投
+2240,天津津报金控
+2241,中海达
+2239,凤凰祥瑞
+2233,Disrupt-ive
+2245,山蓝资本
+2246,康联药业
+2267,星汉资本
+2269,Merck GHI Fund 默克全球健康创新基金
+2248,创湃资本
+2271,Excel Venture Management
+2273,Hudson River Capital
+2256,Aurinvest
+2258,双安资产
+2287,华夏钰生
+2275,中海软银
+2301,山谷资本
+2340,上海交大产业投资管理集团
+2330,溪山天使会(西山天使会)
+2312,乐尧创投
+2334,东方园林
+2335,天使投资人徐易容
+2307,曲速资本
+2303,尚雅投资
+2319,天使投资人李明远
+2324,弘鹰资本
+2331,Safeguard Scientist
+2358,汇智明资产管理
+2360,恒力控股集团
+2355,星芒基金
+2344,鑫游资本
+2342,通用汽车
+2367,润和软件
+2352,恒生基金
+2355,星芒基金
+2367,润和软件
+2369,天使投资人左磊
+2378,世纪佳缘
+2419,Kingsland Development
+2420,梦洁家纺
+2415,鸾大资本
+2403,比克电池
+2396,达鑫电子
+2407,前海互兴资产管理
+2410,众彩科技
+2425,KK Fund
+2427,天业股份
+2451,广州天使投资
+2436,纳川股份
+2457,天善资本
+2422,赤子城SOLO
+2471,光大体育文化投资基金
+2472,星沅空间
+2495,凡星资本
+2457,天善资本
+2520,德丰浩创业投资
+2521,贵格天使
+2499,巨如集团(巨如资产)
+2495,凡星资本
+2510,中广投资
+2507,小马创投
+2496,Wind万得
+2516,电光科技
+2504,诚承投资
+2533,长江产业基金
+2534,中国先锋金融集团
+2544,盛太投资
+2537,鼎鑫资本
+2547,鸿凯投资
+2539,天珑移动
+2525,华澍资本
+2529,博思投资
+2585,Y.Z.CAPITAL原质资本
+2563,锐联资本
+2561,高新成长创投
+2588,聚元投资
+2571,隽泰天使投资
+2578,众合资本
+2601,杭州独角兽投资
+2620,上海嘉银金融
+2613,西部资本
+2590,依文集团
+2603,时空五星基金
+2596,复祥投资
+2599,Trive Capital
+2621,捷顺科技
+2622,大汉控股集团
+2650,有糖资本(有糖梦工厂)
+2651,盐光加速器
+2644,佳浩投资
+2638,商融资本
+2637,全盛资本(全盛金控)
+2633,乐赟资本
+2655,中城投资
+2644,佳浩投资
+2658,乐视体育(乐体创投)
+2710,稼沃资本
+2693,百舸资本
+2671,易泓资本
+2696,龙柏资本
+2705,汇志新媒体基金
+2720,磐缔资本
+2717,海贝同创
+2728,种子期孵化器
+2735,清科华璟创投
+2757,七八点
+2758,加油宝
+2750,黑蝶资本
+2764,米其林
+2748,万志荟投资
+2773,信达汉石
+2756,分众方源体育基金
+2800,北京科技风投
+2801,龙科创投
+2797,绿地润东汽车
+2798,Sycamore Ventures梧桐投资
+2780,化塑汇
+2807,山东高新投
+2809,远邦投资
+2790,广州科投
+2802,毅鸣投资
+2783,比克研究院
+2777,六町资本
+2826,事安集团
+2819,合肥风投
+2834,四川中小企业投资
+2835,慧盛创投
+2813,华禾投资
+2831,富鑫集团
+2837,殷库资本
+2825,融勤国际
+2883,天泉投资
+2884,欧瑞
+2869,中创基金
+2837,殷库资本
+2861,惠理基金
+2850,东安投资
+2883,天泉投资
+2884,欧瑞
+2891,云月投资
+2893,三山
+2906,长沙科投
+2901,福建九华
+2889,中星资本
+2910,慧立创投
+2887,冠誉创投
+2908,理伟斯投资
+2919,长春科投
+2920,江西高投
+2921,南昌创投
+2922,博通创投
+2947,盛商联投
+2930,河北科投
+2948,领优资本
+2960,雷石投资
+2954,保德信
+2928,宁德创投
+2930,河北科投
+2947,盛商联投
+2948,领优资本
+2952,东莞科投
+2940,中非基金
+2972,鼎桥创投
+2973,德厚基金管理
+3000,国瑞创投
+2992,镇江高新投
+2970,中瑞创投
+2966,中科智长富
+2982,嘉石投资
+2988,江苏高新投
+3002,硕富投资
+3023,蓝橡资本
+3024,红桥资管
+3027,湘投高创投
+3028,西藏自治区投资
+3010,贵州科技风投
+3011,海岸淘金创投
+3013,湖北联投集团
+3004,华信投资
+3018,江苏交通控股
+3009,集成创投
+3032,宏升创投
+3048,傲扬投资
+3049,上创信德
+3043,大连凯达创投
+3055,中信国际资产
+3057,通辽宇东创投
+3050,南华汇金
+3051,方正中国基金
+3046,融昌资产
+3040,龙域投资
+3087,融众创投
+3088,实德金融
+3089,申银万国投资
+3072,上海三峰
+3088,实德金融
+3089,申银万国投资
+3090,黄石资本
+3091,微风资本
+3092,万通投资
+3080,武汉科创投
+3081,华软资本CSC
+3087,融众创投
+3111,天津裕丰
+3098,兴科创投
+3093,上海天使投资
+3104,JCF投资
+3084,泰达荷宝资产
+3121,国发东方
+3118,佛山创投
+3119,福建创投
+3125,合润创投
+3143,西安航空产业投资
+3131,富恩德
+3117,锦绣资本
+3165,海泰戈壁
+3166,阿里体育(阿里巴巴)
+3153,江苏高投管理
+3167,嘉升投资
+3168,高能天汇
+3157,中清龙图(龙图游戏)
+3143,西安航空产业投资
+3152,高玉创投
+3138,景和道投资
+3161,北京汉世纪
+3199,德信丰益
+3200,大正元资本
+3201,璘晖创投
+3169,先导控股
+3172,吉禾股权投资
+3173,海世创投
+3178,南京创投
+3179,凤仪创投
+3197,诚朴产业基金管理
+3211,固德银赛
+3197,诚朴产业基金管理
+3198,长园盈佳投资
+3199,德信丰益
+3206,航天产业基金
+3188,通盈创投
+3190,德锐投资
+3185,体奥动力
+3192,高新投资
+3215,斐然资本
+3238,三微投资
+3239,金立创投
+3240,哈尔滨科投
+3220,公众伙伴资本
+3233,万家朴智(万家基金)
+3226,欧源资本
+3227,南车时代高新
+3225,明石创新
+3243,预鉴资本
+3221,华富西安创投
+3231,北科创业
+3261,彩虹创投
+3263,德晖投资
+3272,信德盈泰
+3247,中国高新投资
+3250,河南农业
+3257,博大环球创投
+3267,诚鼎创投
+3303,健民创投
+3279,和泰成长
+3280,南海盛邦投资
+3281,中山科创投
+3297,亚盛投资
+3293,乐澳投资
+3285,科瑞基金
+3308,恒祥投资
+3291,华仰投资
+3278,尚理投资
+3338,华建投资
+3339, 卧龙地产
+3340,哈以创投
+3341,安信乾宏-安信证券
+3329,天翼资本
+3318,君翼投资
+3319,津华投资
+3310,泰豪晟大
+3313,陕西创投
+3321,同盛卓越
+3322,达鑫科技
+3315,维实创投
+3347,南京创投引导基金
+3359,中鸿嘉资本
+3366,安徽创投
+3368,嘉进投资
+3350,燕山投资
+3357,社保基金
+3363,红树投资
+3397,国兴投资
+3398,六宝投资
+3386,物联网产业基金
+3388,中海创投
+3392,深圳中小创投
+3399,瑞弛投资
+3400,固朴股权投资
+3373,沃银德克
+3395,汇量科技Mobvista
+3383,金桥创投
+3369,诚富创投
+3421,国润创投
+3427,慧宇投资
+3428,欧肯资本
+3418,重庆物流产业投资
+3419,海胜基金
+3424,雷岩投资
+3425,汉韬投资
+3430,闽商投资
+3406,建金投资
+3433,奇福投资
+3415,湖北新能源创投
+3459,立信基金管理
+3434,恒利风投
+3436,和光投资
+3464,美好资本
+3465,加德信
+3444,中芬医药管理
+3445,恒锐创投
+3440,广西国开投资
+3443,行健资本
+3452,华房基金
+3456,世富投资
+3437,上银资本
+3450,汇鸥基金
+3467,立达资本
+3468,盛金投资
+3490,成都创投
+3477,天和投资
+3479,启瑞投资
+3504,通策医疗投资
+3489,河南高科创投
+3498,景贤投资
+3495,海益得资本
+3501,弘信软投创投
+3521,龙象之本
+3522,深圳宝德昌投资
+3526,杭信投资
+3527,Koolanoo集团
+3536,秀洲创投
+3540,中保创投
+3533,中企房产股投
+3534,满古矿业投资
+3515,国瑞金泉
+3519,大丰港苏港城
+3558,沈阳科投
+3559,秦皇岛科投
+3552,巨鹏创投
+3546,世纪方舟
+3562,辽宁科创
+3577,安固创投
+3557,石家庄科投
+3594,浙大科技园创投
+3552,巨鹏创投
+3588,盛吴创投
+3627,华源创投
+3629,通财创投
+3617,天宝创投
+3618,纳米创投
+3607,厦门高投
+3603,正资创投
+3604,安徽高新创投
+3615,中瓯创投
+3630,中原文产创投
+3622,河南科投
+3610,融汇通创投
+3621,金帝创投
+3658,银利伟世投资
+3659,融客投资
+3660,扬州创投
+3670,金磐科技创投
+3635,武大创新投
+3652,宏弧投资
+3649,昌润创投
+3646,凯得创新投
+3672,金泰投资
+3678,嘉利得创投
+3686,禾之禾创投
+3665,鸿鑫创投
+3670,金磐科技创投
+3724,中祥投资
+3719,瑞合鑫业
+3699,中博创投
+3713,蓝血科投
+3694,银丰创投
+3703,江苏一德集团
+3702,劲达创投
+3712,金诚信投资
+3707,盈宁创投
+3753,福鸿达创投
+3754,山西科技基金
+3732,信达资本
+3733,宏源汇富
+3741,富鑫创投
+3727,川大智胜
+3729,潍坊创投
+3768,南海信息产业投
+3769,盈富创展投资
+3753,福鸿达创投
+3754,山西科技基金
+3751,天成投资
+3767,中金联合控股
+3744,兰州高科投
+3764,国联投资
+3742,成大科投
+3785,大连科投
+3786,元泓创投
+3787,榕桂投资
+3788,鑫联创投
+3777,博嵘创投
+3803,易慧和投资
+3779,澜海投资
+3799,丰成创投
+3809,宝兴投资
+3810,易松投资
+3824,苏州科投
+3825,昆山国科创投
+3821,谨诚投资
+3799,丰成创投
+3816,花木兰基金
+3830,宁波创投
+3831,洪城资本
+3844,世纪愿景创投
+3845,浩融科投
+3835,圣维尔科投
+3853,天泽源投资
+3841,鹏英志生
+3828,高科利华创投
+3849,中嘉成
+3854,常荣创投
+3855,平易投资
+3848,新疆创新投
+3865,昌东投资
+3870,国正兴源
+3871,苏大投资
+3853,天泽源投资
+3869,龙华元基金
+3857,天象投资
+3854,常荣创投
+3855,平易投资
+3897,磐天资本
+3898,嘉懿创投
+3885,天裕投资
+3876,远基基金
+3903,东霖创投
+3874,易孚基金
+3905,融风投资
+3895,舟仁创投
+3880,永红创投
+3879,海泰丰赢
+3932,慧谷创投
+3948,天诚创投
+3949,盛世金牛
+3895,舟仁创投
+3911,华瓴资本
+3960,景风正德
+3961,金瑞投资
+3948,天诚创投
+3949,盛世金牛
+3962,资合创投
+3963,點炻资本
+3951,科惠投资
+3967,武汉众合创投资
+3955,广博股份
+3958,中软科投
+3976,资义创投
+3940,瀚盟创投
+3991,中融国际信托
+3992,宽带天地
+3986,同超投资
+3987,中科白云
+3996,恩典汇智
+4011,内蒙古科创
+4021,中天科投
+3996,恩典汇智
+4011,内蒙古科创
+4017,涌银投资
+4002,吉成创投
+4003,锐见创投
+4016,新动力风投
+3992,宽带天地
+4004,金阳创投
+4035,厚德资本
+4037,太钢投资
+4027,乐道兴创投
+4028,新元创投
+4038,海熙投资
+4039,维美创投
+4057,汇乐投资
+4064,富远银控
+4049,千舟清源
+4043,嘉志投资
+4055,联贯投资
+4083,弘信资本
+4055,联贯投资
+4057,汇乐投资
+4076,银沙创投
+4077,特华投资
+4094,新鸿基投资
+4096,九星创投
+4064,富远银控
+4087,济南高新投
+4074,津城住宅
+4067,亚融创投
+4104,金时投资
+4105,瀚海资本-瀚海控股
+4106,万融投资
+4131,昊融投资
+4132,杰森集团
+4108,青域基金
+4110,利盈投资
+4130,天道投资
+4127,潞安投资
+4114,复合资本
+4116,政捷龙投资
+4118,拓世诺金
+4148,正海资产
+4136,全唐投资
+4137,新润控股
+4155,中汇同创投资
+4157,万盟并购集团
+4146,红枫资本
+4139,方亚资本
+4140,旭云资本
+4144,弘酬投资
+4162,全联产业投资
+4150,莘泽创投
+4165,恒悦投资
+4166,博盛策联
+4167,力天投资
+4183,华西金智
+4185,Alliance Capital同人融资
+4174,汉和投资
+4193,凯普特创投
+4167,力天投资
+4169,富海天润
+4175,志雷高新投
+4181,鹏德创投
+4189,昆明创投
+4178,盛基创投
+4195,寅嘉创投
+4174,汉和投资
+4204,中合担保
+4206,先天投资
+4229,海基投资
+4230,美林创投
+4221,天博投资
+4223,瑞鑫安泰
+4214,世兴科投
+4215,鼎晟和资本
+4225,中私募集团
+4208,金润资产
+4212,荣建创投
+4219,嘉士德创投
+4241,新亚太投资
+4255,东盛创投
+4256,紫铂创投
+4248,中拓创富投资
+4254,华科利创投
+4235,深圳城蓝资产
+4237,鹏新海创投
+4261,松海创投
+4242,汇银金信
+4263,中咨顺景
+4290,厚生投资
+4291,万丰奥特投资
+4279,广州德信
+4281,高科创投
+4271,摩诃创投
+4272,建业集团-建业地产
+4309,睿通资产
+4295,万里锦程
+4296,钧天创投
+4263,中咨顺景
+4322,奥瑞吉创投
+4313,绿领资本
+4309,睿通资产
+4303,宝安高新投
+4306,佳新创投
+4315,智富创投
+4338,元亨创投
+4321,择端创投
+4328,安平创投
+4369,芜湖科投
+4370,深渝创投
+4371,天源高投
+4381,圣华洋创投
+4382,虹桥科投
+4348,泛亚国际
+4357,大富配天
+4358,森得瑞投资
+4385,黄河源基金
+4376,春晖资本
+4361,来晟创投
+4342,皖江产业
+4350,广汇信创投
+4406,兴利德创投
+4396,优诺资本
+4397,世纪海翔
+4401,科维思
+4420,福宁投资
+4422,鼎元创投
+4388,晟银投资
+4389,亨泰创投
+4392,弘业投资
+4411,海泰创投
+4415,及时雨创投
+4423,俊业创投
+4438,和信德盈
+4440,瑞盟鑫创投
+4445,融恩资本
+4441,通科创投
+4442,廊坊高投
+4425,均衡创投
+4452,舜宇创投
+4435,美世联合创投
+4448,宝盈银通
+4429,致诚联合
+4436,弘利创投
+4481,金信创投
+4483,盘实资本
+4460,建勤投资
+4461,鑫辰创投
+4457,海翼投资
+4458,鼎坚投资
+4484,智龙创投
+4485,天齐创投
+4486,翰辰创投
+4477,力邦创投
+4478,长源创投
+4487,艾信投资
+4489,市奥创投
+4469,金点创投
+4474,泛海创投
+4489,市奥创投
+4503,中融盛投资
+4478,长源创投
+4512,金信投资
+4514,鑫根投资
+4509,鼎盛创投
+4511,中凯信创投
+4524,欣创投资
+4525,英皇金汇
+4520,港银创投
+4508,大禹投资
+4519,百益投资
+4515,重庆鑫根
+4504,富帮金都
+4528,古今创投
+4529,中电JAIC
+4531,德清科投
+4545,老街盛元
+4546,皇骐资本
+4546,皇骐资本
+4560,万鼎创投
+4533,牛润创投
+4563,时代财富
+4535,高新新联
+4549,悦卜林创投
+4578,金牛创投
+4579,温迪数字
+4580,益鼎创投
+4593,同禾资本
+4576,上金阁投资
+4577,舒博医疗投资
+4570,民富投资
+4591,欧迅创投
+4565,青岛海世创投
+4581,易临投资
+4574,通成创投
+4588,顺道投资
+4624,银万斯特
+4625,英泰格瑞
+4606,新鹏程投资
+4607,中天银泰
+4608,金涌泉投资
+4609,新益创投
+4611,华集投资
+4612,世用资本
+4603,茂源资本
+4618,鼎信博成
+4596,日亚（天津）创投
+4620,新睿资本
+4602,瑞银联合
+4666,九州华伟
+4639,东方天业
+4640,联丰投资
+4641,东方再生
+4657,久银投资
+4678,寰宇万银
+4648,银信投资
+4650,尚世投资
+4637,新德集团
+4666,九州华伟
+4645,中金经典
+4646,国润瑞银
+4683,东瓯嘉富诚
+4648,银信投资
+4650,尚世投资
+4714,海德邦和
+4716,久盛立德
+4698,和瑞控股
+4723,厦门庆年投资
+4724,世纪博通
+4736,长城国汇
+4727,建元基金
+4702,安成投资
+4728,华卫投资
+4707,新政泰达投资
+4693,汽车产业基金
+4748,紫杉资本
+4749,上海赏道
+4766,瀚曦投资
+4767,中新技术创投
+4747,中基武汉投资
+4761,百金创投
+4752,金韩投资
+4763,扬州高投创投
+4738,国辰产业投资
+4791,凯弗雷投资
+4792,上海中悉投资
+4793,加里红杉
+4794,枫惠投资
+4795,锦联金融服务集团
+4796,润邦投资
+4774,滨江创投
+4803,凯容胜达
+4783,瑞安投资
+4790,杭康创投
+4805,舟山欧源
+4841,恒健创投
+4845,闵行科风投
+4846,信息技术创投
+4836,兰德润广
+4822,银乾创投
+4810,新能源基金
+4811,大中华人才发展基金
+4818,世茂汇天
+4809,船舶产业创投
+4826,泰同创投
+4885,中沪深投资
+4886,强生控股
+4875,山西国电投资
+4848,景达创投
+4849,廊坊创投
+4881,金典银桥
+4884,凯晟投资
+4861,百金投资
+4872,听潮投资
+4854,信锐投资
+4893,毓承资本
+4895,南大科投
+4897,青岛中合信
+4890,远策投资
+4897,青岛中合信
+4911,兴信投资
+4895,南大科投
+4893,毓承资本
+4900,华岳投资
+4923,富智阳光
+4925,复旦医疗
+4927,元通创投
+4936,真银创投
+4937,烟台创投
+4930,迈迪基金
+4932,长荣投资
+4939,博辰创投
+4940,进艺国际投资
+4945,原木联合资本
+4953,元晓资本
+4933,融晟投资
+4935,高弘创投
+4928,金昊创投
+4968,泰和创投
+4969,文德创投
+4970,泰兴高新投
+4974,冠基投资
+4975,中化汇富
+4962,宏洲创投
+4964,中城赋比兴天津
+4966,爱康创投
+4988,杉杉望新科投
+4973,神能投资
+4978,江苏瑞峰投资
+4986,九华创投
+4987,南泰创投
+4960,联富投资
+5021,维新万隆
+5006,敦和创投
+5008,敦和投资
+5036,中盈投资
+5037,长城亿泰
+4996,华众沃赋
+5027,金河科投
+5018,国发融富
+5056,天安泰投资
+5037,长城亿泰
+5059,瑞璟创投
+5061,燊乾投资
+5036,中盈投资
+5065,纵任创投
+5066,维梧成都
+5041,清科母基金
+5044,蓉锦华创
+5058,汇众数媒
+5047,鑫海投资
+5102,金浩投资
+5104,易高成长创投
+5068,大和资本
+5083,皇朝投资
+5084,瑞旗投资
+5100,东吴创投
+5106,浙江创新产投
+5106,浙江创新产投
+5108,恒久碧能
+5123,益安投资
+5079,富盈投资
+5081,鑫宇风投
+5147,君源创投
+5148,百商投资
+5143,冠聚投资
+5144,银美投资
+5145,艺鑫投资
+5127,锐和投资
+5133,昆鹏投资
+5138,创动投资
+5129,威德投资
+5130,涌邦投资
+5154,谦谦投资
+5136,和辉信达
+5149,金藏投资
+5164,启杰投资
+5166,暖山投资
+5175,润都资本
+5164,启杰投资
+5160,锐合投资
+5182,辛谊投资
+5154,谦谦投资
+5180,彩欣投资
+5203,正润投资
+5204,神农投资
+5211,信成投资
+5212,建银远为
+5207,广东产业基金
+5200,兰马克投资
+5201,励进投资
+5199,钜石投资
+5192,仲赢投资
+5197,亨汇投资
+5185,盛为投资
+5233,科大控股
+5234,嘉略资讯
+5219,南通创投
+5221,信腾投资
+5238,宝利佳
+5239,星长城投资
+5256,雅银投资
+5257,福蔚投资
+5215,湖北青创风投
+5226,大地银鼎
+5227,杭州秘银资本
+5247,嘉盈投资
+5272,泓亿投资
+5281,比中基金
+5282,道泓股权投资
+5278,盛联投资
+5274,裕元资本管理集团
+5263,银石合富
+5267,马良资本
+5285,怡诚创投
+5268,众英桥投资
+5258,玖石投资
+5308,汇嘉创投
+5282,道泓股权投资
+5281,比中基金
+5292,徐工投资
+5323,华鸿财信
+5314,明道投资
+5315,宏邦投资
+5308,汇嘉创投
+5309,永邦投资
+5316,正和利通
+5311,河山资本
+5305,钱江风投
+5322,能达长吉
+5318,棋兆资本(棋兆投资)
+5342,君威世纪
+5356,国投东兴
+5357,玖溪思倍
+5354,重庆量子基金
+5361,聚城投资
+5362,乾星投资
+5326,成都迈普基金
+5357,玖溪思倍
+5382,海泰滨海
+5383,中经瑞益
+5386,联创资源
+5387,宸乾投资
+5361,聚城投资
+5362,乾星投资
+5395,中盛明光
+5378,坤泰通达资本
+5377,金沃博
+5408,蓉兴创投
+5410,典石投资
+5419,怀远博见
+5420,豫瑞创投
+5444,新玺投资
+5403,博纳德投资
+5404,金联诚投资
+5425,京原创投
+5423,渝泓乘方
+5414,源生创投
+5482,浙江普渡科技
+5460,金纬资本
+5468,恒昇阳光
+5465,润丰达投资
+5457,协信远泽
+5454,普凯天吉投资
+5461,金桥投资
+5499,睿谊投资
+5500,申茂投资
+5501,中日环保基金
+5492,维新力特资本
+5493,苏州博韬创投
+5507,广东凯天基金
+5511,仕浩创投
+5512,蓝盾控股
+5490,量富投资
+5513,凯思达投资
+5497,北方华城创投
+5503,青阳天使
+5557,德源资本
+5501,中日环保基金
+5532,巨海创投
+5533,青商创投
+5503,青阳天使
+5547,国富润本创投
+5584,德元善股权投资基金
+5570,天津贝弗利
+5557,德源资本
+5539,动漫游戏产业投资
+5582,益君投资
+5569,兆丰恒业
+5564,汇智基金
+5623,财中创投
+5624,财中控股
+5625,创投联盟
+5616,金泓创投
+5617,中技天博
+5608,信达汇融
+5600,恒硕投资
+5586,润良泰基金
+5653,龙信投资
+5616,金泓创投
+5617,中技天博
+5623,财中创投
+5624,财中控股
+5649,长安国际信托
+5622,高华
+5640,红土嘉智
+5645,盘古海达
+5625,创投联盟
+5671,百色产业创投
+5672,劲驰投资
+5673,顺天投资
+5692,中科农发
+5693,汇杰投资
+5659,久安创投
+5660,华盛通宝
+5689,华信中诚
+5684,金明珠投资
+5685,龙世凯万
+5671,百色产业创投
+5683,汇美创投
+5684,金明珠投资
+5710,融亨天展
+5685,龙世凯万
+5675,海鸿创投
+5739,雏菊机构
+5740,浙科汇涛创投
+5741,菊华投资
+5736,笙策资本
+5737,青年创投
+5724,普凯资本
+5725,普凯瑞盛
+5716,高诚资本
+5717,中童基金
+5747,力利记投资
+5714,华延基金
+5720,成都磐济
+5722,天津磐济
+5730,年丰鸿晟创投
+5755,中州宏源
+5756,盛银投资
+5791,锐奇思投资
+5786,英达投资(英达钢结构)
+5787,昊睿投资
+5770,海为创投
+5783,富坤康健创投
+5767,联动建业
+5780,明都资本
+5772,苍南浙南海西
+5795,辅仁投资
+5819,通商融金
+5820,惠银东方资本
+5798,达昇创投
+5807,宏益投资
+5808,富派投资
+5801,汇衡创投
+5803,宝聿资产
+5811,环球新产业投资
+5821,豫华创投
+5811,环球新产业投资
+5840,海纳品牌加速器
+5826,圭石创投
+5828,海嘉投资
+5821,豫华创投
+5822,鼎则创投
+5815,华盈星投资
+5825,嘉信佳禾
+5831,力盛创投
+5830,力盛德祥创投
+5856,宽象资本
+5857,中润弘利
+5867,新一代创投
+5869,长健投资
+5845,新疆兴汇聚
+5877,苏州阿尔法投资
+5846,丹丰创投
+5873,健行仁合创投
+5915,合和达投资
+5912,众和一达投资
+5869,长健投资
+5873,健行仁合创投
+5910,正海国聚投资
+5887,银豪创投
+5937,荷银投资
+5939,冠旗投资
+5940,德东和投资
+5941,森德瑞沁源创投
+5915,合和达投资
+5946,地豪汇金投资
+5920,华蒙投资
+5932,鑫盛汇投资
+5933,星亿投资
+5944,联银恒通
+5923,溥原投资
+5935,丑银投资
+5971,晟瑞恒投资
+5972,弘丰投资
+5973,锦润投资
+5975,元贸富阳
+5948,安普华广投资
+5956,安发投资
+5961,建信投资
+5977,元星富阳
+5980,高瞻创投
+5963,春泽投资
+5957,海航渤海投资
+5993,华投投资
+6007,德晟创投
+6008,杭州湾投资
+6012,君和资本
+5990,杭州璞程投资
+5997,君悦投资
+5998,正益投资
+5983,燕赵资产
+6016,银鼎投资
+6006,凯石隆海
+5984,岑皓投资
+6023,汉金投资
+6024,成都基石投资
+6027,天信湘科
+6028,盛佳投资
+6018,金岩世纪
+6016,银鼎投资
+6006,凯石隆海
+6045,重庆市青年创新创业天使基金
+6046,环侨投资
+6053,唯瀚成长
+6032,建明投资
+6035,钰欣投资
+6031,高枕投资
+6048,盛商共赢
+6040,利天投资
+6061,莱恩资本
+6083,天辰投资
+6066,博睿联合
+6064,顺驰投资
+6084,中常投资
+6077,名泰投资
+6089,佳达投资
+6084,中常投资
+6077,名泰投资
+6100,国邦投资
+6102,宝基投资
+6089,佳达投资
+6129,新沃司浦林投资
+6115,新华保险
+6120,中赢投资
+6125,福润投资
+6136,宥德投资
+6113,佳达中飞
+6119,瑞晟投资
+6104,英柯投资
+6153,鸿林投资
+6149,东吴投资集团
+6150,德澄投资
+6143,凯德商用基金
+6144,汉武投资
+6145,长丰投资
+6157,中新融创
+6138,华夏文化动漫发展基金
+6153,鸿林投资
+6157,中新融创
+6158,嘉兴创业风投
+6178,中星基金
+6163,商弈投资
+6154,世纪锦来能源投资
+6160,泉源堂
+6170,金盛元投资
+6173,尚飞投资
+6168,百泰投资
+6202,JadeValue
+6196,义阳投资
+6191,盈瑞银投资
+6192,永荣投资
+6204,万轮润盈投资
+6205,金础创业投资
+6186,华沙投资
+6189,棠天投资
+6183,格萨乐投资
+6181,邦吉吾瑞投资
+6200,城海股权投资
+6221,泰恒基投资
+6222,尚衡盈泰投资
+6223,金达汇股权投资
+6244,广鸿久阳投资
+6245,天元投资
+6246,复地投资
+6252,暨南投资
+6256,京舜投资
+6214,三诺集团
+6247,金高富权投
+6248,金禾成投资
+6260,弘逸资本
+6228,玖兆投资
+6218,宏微投资
+6276,鼎汇投资
+6263,网新智源
+6264,舜优投资
+6313,瑞沨投资
+6282,中呼投资
+6269,惠德创投
+6318,领修创投
+6319,岭南财富
+6313,瑞沨投资
+6291,桐庐创富
+6292,嘉贝股权投资
+6322,迦蓝投资
+6305,铧创股权投资
+6328,建元信诺
+6320,凯顿股权投资
+6315,同和投资
+6310,瑞林投资
+6350,融高投资
+6351,实地东辰
+6358,深蓝投资
+6359,利君骐资产
+6336,瀚杰投资
+6337,金帛创投
+6341,常晟创投
+6359,利君骐资产
+6360,利君骐福旺
+6373,杨凌农业高投
+6362,利君骐瑞福
+6353,亚策投资
+6377,双冠创投
+6358,深蓝投资
+6368,建信诚恒
+6348,全运股权投资
+6386,洛宾投资
+6387,前景投资
+6394,润银宏业
+6395,乐有投资
+6378,合江创投
+6379,北斗星润
+6388,源恺投资
+6390,源丰基金
+6391,徐汇高科
+6407,田丰天富
+6381,洛轩创投
+6394,润银宏业
+6395,乐有投资
+6428,中国智能
+6411,稳盛投资
+6425,北京兼程信息技术有限公司
+6391,徐汇高科
+6421,点智互动ClickWise
+6407,田丰天富
+6398,双阳投资
+6437,亚夏汽车
+6455,Thuja Capital
+6456,蚂蚁天使
+6466,省广股份
+6429,上海丰豪
+6450,锦绪资产
+6453,Omnes Capital
+6469,克里斯托弗基金
+6470,Eastward Capital Partners
+6491,光照资本
+6473,舒展控股
+6494,谦石高新创投
+6477,新动金鼎体育基金
+6468,苏宁环球
+6482,路奇资本
+6489,91金融
+6485,兴民钢圈
+6530,百润央银
+6532,威资顿资本
+6528,Morningstar晨星
+6518,品清资本
+6519,德众资本
+6505,Bryant Stibel
+6507,新富资本
+6527,楚商集团-楚商创投
+6536,通衡浙商资本
+6545,沣沅资本
+6551,东玖汇集团开易资本
+6553,海通新创投资
+6556,合享资本
+6558,裕嘉投资
+6558,裕嘉投资
+6580,沐恩资本
+6599,健盛体育专项基金
+6576,大营资本
+6597,腾股创投
+6592,白马资本
+6565,诚存资本
+6583,聚创造
+6628,万美资本
+6632,蓝海巨浪资本
+6638,兰君创投
+6616,华润资本
+6619,轻舟资本
+6644,星创投
+6645,绿洲资本
+6653,高鹄资本
+6658,中金策
+6647,伯仲资本
+6649,普雷资本
+6701,华峰资本
+6690,彬元资本
+6683,易翎资本
+6685,鼎新资本
+6710,仁德资本
+6711,冲盈资本
+6716,欧菲和正投资
+6724,真金投资
+6713,聚众资本
+6714,五方资本
+6708,新番资本
+6727,深南创投
+6729,鼎域恒睿
+6718,谷米移基金
+6721,厚达资本
+6758,安兰资本(华隆集团)
+6759,众合瑞民
+6761,势能资本
+6752,泛舟资本
+6753,新光集团
+6745,中盈美盛
+6762,先锋国盛
+6771,馨企投资(银禾资本)
+6758,安兰资本(华隆集团)
+6759,众合瑞民
+6753,新光集团
+6752,泛舟资本
+6774,和高资本(和凯创投)
+6805,三羊基金
+6780,千程投资
+6781,Auto Space车创
+6775,岩海投资
+6776,晟初投资
+6779,奋荣投资
+6816,发射资本
+6817,中海投资
+6836,氢创投资
+6824,凤凰财富
+6858,润石资本
+6859,谦石投资
+6852,文承资本
+6858,润石资本
+6892,新榜
+6881,通和资本
+6873,映趣资本
+6885,弈秋资本
+6903,奇点纪元
+6915,隆门投资
+6924,博雅资本
+6910,达安创谷
+6937,启迪种子
+6983,小即是大资本
+6955,青岳资本
+6987,德摩资本
+6982,交享越
+6966,夸克创投
+6951,ZPF中关村并购母基金
+7006,南岳资产
+7007,云懿投资
+7029,安妙资本
+7022,复星瑞哲
+6994,强云资本
+7020,信创资本
+7050,eGarden Ventures
+7085,创梦创投
+7087,新瞳资本
+7099,浪潮资本
+7083,骁锐资本
+7125,果睿投资
+7138,唯君资产
+7122,明心资本
+7140,源和资本
+7190,柏泰投资Butler Industries
+7192,首望资本
+7195,鼎和硕投资
+7185,中国远大集团
+7178,WF Capital
+7234,中联投
+7232,厘米空间孵化器
+7229,真奇资本
+7219,盈睿资本
+7223,博流资本
+7241,旭珩资本
+7237,星界资本
+7275,金泽霖
+7276,信修投资
+7277,中冀投资
+7247,华璋资本
+7305,盛沃投资
+7281,滢盛资本
+7302,中投国资
+7296,海润国际并购基金
+7289,中汽创投
+7298,钜鑫资本
+7335,安博凯直接投资基金
+7323,芯云资本（SilliconX.AI）
+7313,卓元资本
+7336,中嵘投
+7344,诚硕资本
+7366,京立资本
+7347,新宸盛元
+7344,诚硕资本
+7375,禧筠资本
+7377,黄河三角洲创投
+7371,奇迹资本
+7370,KoinVentures（KV资本）
+5240,凯信投资
+7380,凌波资本
+7386,君桐资本
+7384,融创资本
+2857,陕高投
+7421,Social Capital
+7424,Draper Esprit
+7431,Orios Venture Partners
+7442,招商财富
+7521,Lippo Group
+7518,和聚百川
+7517,BlueCross BlueShield Venture Partners
+7525,千杉投资
+7534,同安投资
+7538,Conor Venture Partners
+7560,宏商资本
+7558,Montage Ventures
+7543,Arena Ventures
+7568,JME Venture Capital
+7559,CRV
+7596,正勤资本
+7590,松发股份
+7607,深度加速
+7624,北京能源集团
+7628,龙品锡资本
+7642,NGEN
+7637,Portag3 Ventures
+7645,Lok Capital
+7639,Omega Funds
+7665,waterdrip capital水滴资本
+7643,大有国际投资
+7656,Hillsven Capital
+7657,飞猪资本
+7691,广东文投创工场（广文投）
+7696,和骞投资
+7698,光华资本
+7681,甬潮创投
+7682,腾讯众创空间
+7695,Rethink Impact
+7699,毅仁资本
+7707,Daimler戴姆勒
+59,创新谷Innovalley
+43,长友基金
+85,快创营
+89,上海致景投资
+84,高原资本中国
+77,传媒梦工场
+67,深圳世为投资
+92,伟高达创投Vickers Capital
+93,华威国际集团CID
+122,宏达电HTC
+108,泰山天使
+117,深圳中青宝
+137,雅虎
+128,东软集团Neusoft
+137,雅虎
+147,墨池山创投
+143,一加投资
+159,appWorks之初创投
+152,海银资本
+161,同威创投
+177,凤凰传媒
+206,Mr.I互联网创新基地(陈瑞贵)
+185,乐视网
+213,银瑞达Investor AB
+243,红十三资本
+231,华软投资
+242,英飞尼迪Infinity
+248,长青资本
+267,君润资本
+253,浙报传媒(东方星空)
+261,华为
+310,北京华山投资
+314,InterWest Partners
+319,DBL Investors
+319,DBL Investors
+335,New York Times
+367,Start-Up Chile
+351,MaRS Investment Accelerator Fund
+348,Axon Partners Group
+347,Cabiedes & Partners
+343,SoftTech VC
+387,Harbor Pacific Capital
+402,Lightbank
+427,Deep Fork Capital
+433,Austin Ventures
+425,Pacific Partners
+443,Warner Music华纳唱片
+444,Mistral Equity Partners
+459,Basset Investment Group
+446,EPIC Ventures
+460,Bezos Expeditions
+451,JFJF Ventures
+507,Facebook
+472,fbFund
+466,Cox Media Group
+500,Signature Capital
+476,Band of Angels
+494,Catamount Ventures
+483,Duchossois Capital Partners
+523,Mohr Davidow Ventures
+525,Luxor Capital Group
+516,vizio
+517,Innovate Partners
+521,BlueRun Ventures海外
+531,Blue Chip Venture Company
+539,WestTech Ventures
+510,Thayer Street Partners
+542,Etsy
+547,GaiaX Global Marketing Ventures
+570,GS Group
+572,Common Fund
+616,Southern Cross Venture Partners
+590,Scrum Ventures
+586,凤凰资本
+590,Scrum Ventures
+625,Azure Capital Partners
+594,Reliance Capital
+605,Fortinet
+649,Universal Music Group
+633,Bauer Media
+674,西班牙电信
+659,Vintage Investment Partners
+655,Bee Partners
+663,iControl Networks
+714,综艺股份
+695,中京电子
+682,天威视讯
+711,Ronald Lauder Ventures
+697,Corinthian Health Services
+735,I Mercury Capital
+730,Abundance Partners
+731,Almaz Capital
+732,InVenture Partners
+750,Investor Growth Capital
+714,综艺股份
+772,Guard Capital
+773,Aurora Funds
+774,BC Partners
+762,CAA Ventures
+764,Mack Capital
+750,Investor Growth Capital
+751,Split Rock Partners
+765,TomorrowVentures
+758,Penguin Random House
+760,CODE Advisors
+778,Openfund
+798,iSpeak
+792,Randstad Holding NV
+799,El Dorado Ventures
+800,Ovo Fund
+789,Hydrazine Capital
+776,Advanced Technology Ventures
+804,Novak Biddle Venture Partners
+803,Rock Health
+809,In-Q-Tel
+828,Fortress Investment Group
+825,CIT GAP Funds
+812,One Ventures
+808,Allegis Capital
+819,Launchpad LA
+831,LIOR INVESTISSEMENTS
+837,Hellman &Friedman;
+883,蜗牛移动
+884,太证资本
+891,触控科技
+867,A Plus Finance
+869,Tenfore Holdings
+889,OCA Ventures
+854,Anthem Capital Management
+909,广东弘图广电
+919,欧比特
+920,北京旋极信息
+925,瑞领资本
+916,成都高新区创业天使投资基金
+913,上海跨国采购发展(集团)有限公司
+904,Opus Capital
+901,Synaptics
+930,齐星铁塔
+931,北京泰腾博越资本
+927,承珞资本
+965,Alsop Louie Partners
+967,CNF Investments
+935,骅威科技
+934,富海银涛
+947,DeNA
+959,Box
+993,页游科技
+994,汉鼎股份
+979,Cyberagent Ventures（国外投资）
+991,新途基金
+987,Square
+1002,William Morris Endeavor
+985,Shah Capital Partners
+995,Vaizra Capital Russia
+1012,AOL Ventures
+991,新途基金
+1005,Ardent Capital
+1002,William Morris Endeavor
+995,Vaizra Capital Russia
+1013,索芙特
+1045,江苏高科技投资集团(高投集团)
+1030,RTA Capital
+1024,SmileGate
+1044,Montreux Equity Partners
+1017,Monster
+1082,Condé Nast
+1083,R&R Ventures
+1072,安大略省教师退休基金Ontario Teachers
+1073,互爱科技
+1077,DreamWorks Animation
+1078,Winklevoss Capital
+1060,Luminary Labs Ventures
+1061,Oregon Angel Fund
+1071,邦讯技术
+1081,Acacia Capital
+1056,The Westly Group
+1085,Rogers Venture Partners
+1094,美丽说
+1117,Cloud Power Capital
+1097,日本KDDI电信
+1110,Alcatel-Lucent
+1103,Red Hills Ventures
+1153,探路者
+1160,Trident Capital
+1155,Huron River Ventures
+1146,Touzimsky Airlines
+1132,Chernin Group
+1121,Coppel Capital
+1134,友合天昱投资
+1180,中凌晟银
+1181,阳光游戏
+1172,AVentures Capital
+1173,Apex Venture Partners
+1187,2B Angels
+1190,Wiser Financial Advisors-WFA
+1194,IAC
+1166,StarVest Partners
+1175,GitHub
+1221,科创集团(上海科创)
+1217,Europlay Capital Advisors
+1213,365 Retail Markets
+1201,Chinergy Capital
+1210,Siemer Ventures
+1219,PTC
+1226,东方国信
+1227,爱康国宾
+1232,Target Partners
+1258,Illuminate Ventures
+1238,百圆裤业
+1241,United Ventures
+1279,MI Ventures
+1280,Cayuga Venture Fund
+1271,Crest Capital Ventures
+1290,Albion Ventures
+1304,世纪鼎利
+1311,Initial Capital
+1294,Sussex Place Ventures
+1290,Albion Ventures
+1307,Lakewest Venture Partners
+1298,Advantage Capital Partners
+1342,Sydney Angels Sidecar Fund
+1329,NextBig三万弘合投资
+1330,绵石投资
+1320,CSDN
+1323,Baroda Ventures
+1334,SG VC
+1313,FirstData
+1353,Finnish Industry Investment
+1371,融银资本
+1367,Artesian Capital Management
+1369,恒泰资本CHT Capital
+1373,久邦数码
+1348,RockPort Capital Partners
+1415,新鸿基
+1415,新鸿基
+1391,凤凰新媒体
+1422,深圳中电投资股份有限公司
+1423,LookSharp
+1419,邦易资本
+1400,衡锐资本
+1426,Fits.me
+1427,Twitch
+1458,Intial Capital
+1440,川岳投资
+1443,九盈投资
+1430,艾格拉斯
+1453,香格里拉
+1467,德国亚特拉斯风险投资集团
+1444,Snapdeal
+1435,中讯软件
+1497,长江国弘
+1510,汇金股份
+1506,和润集团
+1486,宝诚股份
+1487,51talk
+1467,德国亚特拉斯风险投资集团
+1521,中技控股
+1523,华夏资本
+1531,国采科技股份有限公司
+1519,联建光电
+1526,正源资本
+1534,Frog Capital
+1550,德沃基金
+1563,太平洋网络
+1552,Aarin Capital
+1540,Starfish Ventures
+1556,大湖股份
+1545,Elliott Management
+1548,GDF SUEZ法国燃气苏伊士
+1570,PCH International
+1572,联创节能
+1602,二三四五投资基金
+1577,RRJ资本
+1588,世联行
+1590,互联网电影集团IFG
+1578,鼎典资本
+1573,NTT Communications
+1585,搜于特服装
+1594,银富集团ELRE
+1629,云创资本
+1630,歌石投资
+1627,朗姿股份
+1628,崭越资本
+1622,合众思壮
+1623,富贵鸟
+1635,金字火腿
+1624,熊猫烟花
+1641,Foxlink台湾正崴集团
+1664,新开普电子
+1666,奥维通信
+1667,宜华木业
+1647,泰亚股份
+1670,国海创新资本
+1705,亚联资本
+1708,通鼎互联
+1702,Rothenberg Ventures
+1703,锦江国际
+1705,亚联资本
+1676,Telegraph Hill Capital
+1677,Hyde Park Angels
+1670,国海创新资本
+1686,澜哲资本
+1734,Longworth Venture Partners
+1751,新沃资本
+1752,正时资本
+1741,明家科技
+1730,Red Sea Ventures
+1722,博彦科技
+1744,Twitter Ventures
+1748,金利科技
+1789,荣科科技
+1790,Unity游戏产业投资基金
+1777,康恩贝
+1754,和璞资本
+1779,盈信资本
+1775,分豆不等基金
+1813,德力股份
+1806,MakeMyTrip
+1816,中瑞思创
+1802,聚美优品
+1795,联合利华
+1810,深大通
+1793,金正大
+1831,众诚资本
+1844,高维资本
+1845,Abingworth
+1826,雅诗阁Ascott
+1851,华泽资本
+1849,建元天华
+1837,麟龙股份
+1876,渣打银行
+1877,龙翌资本
+1878,上海长鹰投资
+1855,优联资本
+1886,黑桃资本
+1863,泓域资本
+1884,谱润投资
+1880,箭速资本
+1868,世纪睿科
+1920,乾彭资本
+1922,天天投
+1892,幻维世界
+1905,浙富控股
+1924,天泽投资
+1908,歌德盈香
+1951,小牛资本
+1954,漫步者Edifier
+1938,泰蕴资本
+1949,达华智能
+1932,德创资本
+2003,复励投资
+2004,通用创投
+2005,Verisilicon芯原微电子
+1988,大道至简资本
+1991,新华资本-新华信托
+1980,千方科技
+1997,91农业
+1969,太火鸟
+2028,升华拜克
+2029,稻谷资本
+2030,富力地产
+2009,珠江钢琴
+2010,新加坡邮政Singapore Post
+2006,元钛基金
+2022,诚成资本
+2015,引力传媒
+2016,翰宇药业
+2018,卓翼科技
+2032,Rachel Zoe Ventures
+2026,中楚投资
+2052,纳兰德投资
+2042,禾欣股份-慈文传媒
+2043,中瑞资本－和嘉瑞兴
+2037,中科曙光
+2066,重庆商界传媒
+2058,无极道投资
+2041,上海德智和投资
+2064,奥马电器
+2072,动视暴雪
+2076,凌志软件-凌志汉理基金
+2078,麦子金服
+2075,杭州文广集团(文广投资)
+2086,久奕投资
+2087,迅游网络
+2106,金刚游戏
+2107,上海融川投资
+2098,凯瑞德
+2084,好药师大药房
+2095,和才基金
+2080,会唐网
+2140,十方创投
+2133,前海汇能
+2143,本见投资
+2113,知本投资(口袋购物)
+2113,知本投资(口袋购物)
+2128,天使投资人周哲
+2165,中沃投资
+2143,本见投资
+2147,中国恒天(恒天资产)
+2163,永达汽车
+2160,关天资本
+2155,500彩票网
+2205,中弘股份
+2195,筱光资本
+2183,泛华诚业
+2204,腾信股份
+2191,罗玉凤(凤姐)
+2200,首业君京投资
+2229,蓝筹投资
+2230,蒲写投资
+2231,Whitehart Ventures
+2210,Valence Ventures
+2212,智金汇
+2235,灏蓝资本
+2228,燧石资本
+2200,首业君京投资
+2259,积木盒子
+2237,西拉姆资产
+2268,洪门投资
+2283,South Park Ventures南方公园
+2235,灏蓝资本
+2265,鱼跃科技
+2260,898创新空间
+2290,太极股份
+2291,October Venture
+2292,重庆中以股权投资基金
+2326,兰璞创投
+2327,高升控股
+2296,希努尔
+2297,天使投资人庞升东
+2315,亚豪资本
+2317,麒麟游戏
+2320,康得新
+2321,冠英资本
+2293,前海开源
+2294,天鑫洋金业
+2308,和智资本
+2323,久其软件
+2379,ST海龙股份
+2347,神州专车
+2349,禾林资本
+2346,大洋电机
+2377,中泰证劵(齐鲁证券)
+2353,辅仁集团
+2341,Lazena Investment
+2406,珠海互娱在线资本
+2389,天使投资人邵根伙
+2391,天石资本
+2382,点睛战略基金
+2386,道明光学
+2397,太乙汽车技术
+2388,天玖创投(天玖元润基金)
+2412,首都航空
+2392,ING(荷兰国际集团)
+2412,首都航空
+2448,中源协和
+2449,业禾基金(业禾投资)
+2450,颐成投资
+2453,蓝巨投资
+2455,泽清资本
+2444,绩优投资
+2429,云赛创投
+2447,ColonyCapital柯罗尼资本
+2426,光大瑞华
+2433,有利网
+2479,华叶投资
+2480,华旅新绩体育投资
+2474,中体鼎新投资
+2489,游侠汇
+2456,友田资本
+2505,金复资本
+2506,Integral雄厚资本
+2509,慧鑫泉投资
+2526,纵联资本
+2535,罗辑思维
+2550,斑马资本
+2551,民生电商
+2564,青桐资本
+2549,利亚德光电
+2552,子望投资
+2560,富汇创投
+2542,山楂树资本
+2575,云岫资本
+2568,九轩资本
+2608,腾业创投
+2605,磐古金服创投
+2595,嘉丰资本
+2589,永太科技
+2587,莱茵体育
+2586,云椿资本
+2577,领建资本
+2619,南京未来网络
+2639,孔雀资本
+2646,三体投资
+2635,景峰医药(康景资本)
+2627,红实资本
+2672,云起资本
+2673,盛通股份
+2676,涌玖投资
+2678,茂硕电源
+2665,上海菁葵创投
+2666,东方财富网
+2685,氪空间
+2686,富道投资
+2662,衡星创投
+2663,璞聚投资
+2700,领医创造
+2701,深圳中韩产业投资基金
+2727,古玉资本
+2718,恺富资本
+2712,筑+资本
+2703,宏桥资本
+2711,长江会基金
+2753,众善创投
+2763,水晶光电
+2752,文资数码投资基金
+2753,众善创投
+2776,天时开元
+2754,汉德资本
+2755,GQY视讯
+2771,鼎立控股集团
+2775,天弘基金
+2782,丛蓉投资
+2804,青岛科投
+2805,杰思汉能
+2784,BioVeda百奥维达中国
+2785,维众投资
+2786,永威投资
+2787,辰能风投
+2795,乾龙创投
+2796,旭扬创投
+2821,紫江创投
+2791,汉鼎亚太
+2799,Acorn Campus Ventures橡子园创投
+2810,鼎嘉创投
+2823,新奥资本
+2824,广东科投
+2836,南京高新投
+2840,红鼎创投
+2851,毅创投资
+2845,西南证劵
+2848,善翔投资
+2842,FTVentures
+2862,通联创投
+2864,人寿资产
+2876,淄博高新投
+2877,四川时智投资
+2874,浙江国信投资
+2859,上投摩根
+2865,海融高新创投
+2860,苏高新风投
+2867,华兴Alpha
+2916,中复投资
+2917,长电创新投
+2895,北京高新创投
+2898,华鸿创投
+2900, 香港天天向上基金
+2914,富诚创投
+2911,江苏南大高投
+2885,兰草亚洲
+2924,华汇通创投
+2925,盛桥资本
+2936,浩博投资
+2937,创元实业
+2916,中复投资
+2917,长电创新投
+2939,成都高投
+2929,盈创投资
+2927,无锡新区科技金融投资集团
+2933,大鹏航服
+2918,爱酷游
+2975,昭时投资
+2956,圆融投资
+2957,融众投资
+2951,苏州科技创投
+2974,新安财富
+2950,首华创投
+2990,朝晖能源产业基金
+2967,汉盛资本
+2944,旷达创投
+2945,新城创投
+3005,云杉投资
+3006,普讯创投
+3015,南强投资
+3008,中安投资
+3012,苏高新创投集团
+3021,开投基金
+2997,金智创投
+2998,科建创投
+3031,汉骅资本
+2996,湖州创投
+3020,龙洲投资
+3070,融石资本
+3071,晨光创投
+3053,阿谢资本
+3052,北京金石农投
+3045,奥信创投
+3041,道泓创投
+3042,盈柏投资
+3063,中交投资
+3059,大中投资
+3064,伟俊投资
+3099,复旦量子创投
+3101,信科创投
+3102,中矿联合基金
+3086,新开发创投
+3094,海口创投
+3078,蚌埠创投
+3110,东方摩尔
+3075,正同创投
+3082,CSIP
+3112,恒和创投
+3127,中非投资
+3124,福建省投资集团
+3110,东方摩尔
+3122,鼎顺创投
+3116,银隆资产管理
+3127,中非投资
+3139,汇联资产
+3140,江阴高新创投
+3171,圆基环保资本
+3146,兴边富民投资
+3142,亚洲资产
+3158,兴农创投
+3159,深圳汉世纪
+3175,杰邦创投
+3180,金源鸿基创投
+3136,华宝投资
+3218,拓尔思
+3191,汇金立方
+3193,创时信和
+3204,南方睿泰
+3194,威士曼投资
+3181,松山湖创投
+3223,新同方投资
+3212,上海融高
+3207,亿泰股权投资
+3228,保腾创投
+3258,富坤投资
+3248,惠农资本
+3236,东海投资
+3262,交银国际
+3249,兰石创投
+3254,航运产业基金
+3230,华尔投资
+3264,华融渝富
+3265,招商湘江投资
+3273,华复拉丁投资
+3274,明华投资
+3287,福安药业
+3282,汇泉投资
+3276,新干线投资
+3271,金仪资本
+3290,水木华仑资本
+3288,伟大基金
+3289,泛华投资
+3268,华禹水务产业投资
+3323,祥云医疗投资
+3325,中金华创
+3311,万利投资
+3312,清华科技园
+3331,博源资本
+3332,博峰资本
+3300,赛航基金
+3316,盈仁投资
+3298,麦田立家投资管理
+3299,悟空投资
+3328,鸿福投资
+3320,东方高圣
+3295,银通投资
+3354,平安信托
+3355,和丰投资
+3360,海峡汇富
+3364,新产业创投
+3349,瑞穗证券
+3381,星浩资本
+3382,稳胜投资
+3401,亚东投资
+3402,长白山股权投资
+3403,哈萨克香港发展
+3364,新产业创投
+3365,誉华基金
+3377,万盛投资
+3378,民富股投
+3379,德美产业基金
+3371,中物创投
+3360,海峡汇富
+3391,卓佳汇智
+3367,戴比尔斯矿投
+3404,创佳资本
+3405,中关村宏和投资
+3454,众享石天
+3455,盈泰创投
+3446,明业投资
+3447,国泰利和创投
+3448,铂运发投资基金
+3438,新纳资本
+3439,源通资本
+3458,财信创投
+3461,湖南国投
+3449,新邦资本
+3429,德联国际投资
+3487,尚镭资本
+3496,凯龙基金
+3500,裕坤合
+3478,兴业集团
+3485,汇力基金
+3473,中环投资
+3481,大唐投资国际
+3484,厚土创投
+3476,曹妃甸产业基金
+3528,庆隆投资
+3530,SuperG速普创投
+3531,杭州量界投资
+3548,天素创投
+3550,万通瑞和
+3514,邦信资产
+3520,北京文化
+3525,华夏基金香港
+3535,相城创投
+3553,华银创投
+3528,庆隆投资
+3542,深蓝创投
+3570,浦东创投
+3571,信虹投资
+3572,德汇集团
+3573,科润创投
+3582,嘉睿创投
+3560,中茂创投
+3561,金润创投
+3593,国源创投
+3595,天翔创投
+3564,创恒创投
+3565,聚兴创投
+3581,蔚蓝投资
+3586,鑫澳创投
+3598,合肥创投
+3613,鄂尔多斯创投
+3619,三微创投
+3620,齐鲁创投
+3611,广聚创投
+3609,金立方投资
+3616,寻智勤实创投
+3625,元化创投
+3636,盛维资本
+3637,火炬科投
+3662,济南科投
+3631,开创创投
+3633,泰山创投
+3656,国富基金
+3653,龙华启富
+3645,赢联中小创投
+3647,光谷烽火创投
+3634,德道投资
+3684,乾丰创投
+3677,大唐创投
+3679,陕西中金创投
+3696,枫谷投资
+3698,龙翔博弘投资
+3680,前海杰维资本
+3682,汇乙创投
+3688,联合绿能
+3690,国巨集团
+3704,睿立资本
+3675,宁夏创投
+3666,久盛创投
+3693,量科创投
+3730,百富川投资
+3731,运时投资
+3717,经典创投
+3718,杭元福创投
+3720,鼎天创投
+3750,科鼎创投
+3760,北京中富
+3752,粤丰创投
+3746,商裕投资
+3743,亿阳投资
+3765,恒利创投
+3766,建设创投
+3791,鼎信咨询
+3792,华清基业
+3780,国鸣投资
+3781,中国通用咨询投资有限公司
+3763,科海创投
+3798,邦联投资
+3778,中融投资
+3776,京华永业
+3774,金鹰投资
+3790,中客创投
+3832,茂树资本
+3833,开元科投
+3829,国家低碳产业基金
+3834,上海闽商投资
+3820,中摩资本
+3833,开元科投
+3834,上海闽商投资
+3839,中汇投资
+3840,中舒投资
+3852,永基投资
+3873,泰诺润发
+3842,圳宇股权投资基金
+3843,政创基金
+3846,深信创投
+3847,中星泰科投
+3860,嘉善嘉龙
+3837,汇益创投
+3868,科润投资
+3886,证大投资
+3887,深圳火炬创投
+3888,迈朴资本
+3904,成丰资本
+3906,楚和创投
+3902,河南联创投资
+3899,瑞安创投
+3888,迈朴资本
+3906,楚和创投
+3894,天富锦创投
+3896,纵之横创投
+3883,泛友投控
+3900,和林投资
+3899,瑞安创投
+3915,金正嘉尧
+3916,百联安
+3917,川信资本
+3930,达鑫投资
+3918,睿久投资
+3919,容汇天业
+3920,裕润立达
+3939,智诚海威
+3944,吉辉创投
+3946,亨升投资
+3910,德信投资
+3933,倍高创投
+3942,信诺泰创投
+3922,东昊创投
+3965,光大资本
+3966,凯喜雅投资
+3952,中邦投资
+3978,仁华创投
+3979,非同凡想创投
+3970,炬星创投
+3971,联科投资
+3972,银天创投
+3975,财富同超
+3947,中国天使基金
+3969,惠泰创投
+3984,海问投资
+3985,宝源科投
+4015,越商创投
+3982,合盈创投
+4012,财源创投
+4018,天骄科投
+3990,尊方德投资
+3997,环新创投
+4018,天骄科投
+4030,安融创投
+4040,大昌投资
+4059,汉红投资
+4056,晋商联合集团
+4042,漕河泾创投
+4062,国石天成
+4046,盛邦惠民
+4047,德尊科投
+4050,信晔泰坤
+4053,兰州黄河科投
+4063,活立木投资
+4097,第一投资
+4101,金石资产
+4080,交博投资
+4068,银桥科投
+4069,天骏物流基金
+4070,智慧天使
+4113,万信投资
+4115,景民基金
+4109,远景万方
+4112,汇盈汇金
+4092,盛世凯邦
+4093,卓锋资本
+4075,基业长盛投资
+4095,高林资本
+4186,时代猎鹰
+4188,宏发创投
+4120,中大科创
+4171,中青创投
+4172,熔岩投资
+4141,戴乐斯投资
+4143,汇通天下
+4179,万丰创投
+4180,龙邦创投
+4177,马凯
+4160,浙华投资
+4133,海峡创投
+4134,国丰源投资
+4209,誉华投资
+4186,时代猎鹰
+4209,誉华投资
+4210,东方海辰
+4200,嘉华融通
+4202,兴湘投资
+4222,汤荣颐合
+4224,东方达悦
+4226,大清创投
+4227,鸿源创投
+4228,广东温度创投
+4217,江苏火炬
+4196,萃智投资
+4205,卡日曲投资
+4213,禾其投资
+4233,金色未来创投
+4244,德高广宇
+4245,鸿泰博科
+4252,中鼎投资
+4246,骏朴投资
+4247,盛富创投
+4244,德高广宇
+4222,汤荣颐合
+4236,瑞满东创投
+4269,君鼎投资
+4292,光际资本(IDG-光大)
+4278,通达创投
+4283,联合英杰
+4284,利天科创
+4274,全德富创投
+4287,仓源基金
+4260,睿富创投
+4257,同信盈创投
+4300,浩悦资本
+4301,银港创投
+4304,中新航资本
+4305,乾元盛创投
+4311,红土永佳
+4312,肯昕顿创投
+4294,国联通宝资本
+4297,天地融创
+4319,百瑞创投
+4301,银港创投
+4314,博信创投
+4312,肯昕顿创投
+4307,启名创富
+4320,东方博智
+4311,红土永佳
+4344,卓艺创投
+4345,鑫奥创投
+4347,祥龙投资
+4351,民富基金
+4352,汇泽创投
+4341,汉高盛创投
+4343,天元创投
+4335,麦田万家
+4331,中金富创投
+4332,动量创投
+4325,信和创投
+4326,福鼎创投
+4329,嘉诺创投
+4351,民富基金
+4352,汇泽创投
+4353,砻淬资本
+4354,桓凯创投
+4372,西旅创投
+4380,苏州创新
+4359,玖荣创投
+4368,保中太创投
+4377,镁天创投
+4375,海洋明石
+4391,中汇融
+4393,吉农创投
+4403,富泉创投
+4394,嘉和控股上海分公司
+4390,信合创投
+4408,潍坊红土
+4410,长桥创投
+4400,英岭投资
+4398,浙江时代创投
+4431,双兴创投
+4432,中富村创投
+4417,济宁博大创投
+4419,红榕资本
+4434,弘德投资
+4437,德泰创投
+4412,元利创投
+4428,中汇同信
+4416,海宏创投
+4443,惠百川创投
+4465,融信华创
+4475,美中投资
+4471,鹏凯投资
+4473,润高股权
+4466,远大创投
+4467,国泰光华
+4488,网新德维
+4456,晶略资本
+4446,恒星创投
+4447,宣辰科投
+4450,隆海创投
+4467,国泰光华
+4471,鹏凯投资
+4479,平煤创投
+4502,莱沃创投
+4543,帝沃投资
+4544,中汇创投
+4505,吉慷创投
+4506,融汇创投
+4539,丹阳盛宇
+4521,旗银创投
+4522,睿地创投
+4513,中小创投
+4550,汇金添富
+4548,银涛创投
+4536,领域创投
+4561,威盛投资
+4562,环信投资
+4551,高交创投
+4553,东科创投
+4554,合银创投
+4544,中汇创投
+4561,威盛投资
+4554,合银创投
+4567,恒川海创投
+4569,联信投资
+4575,天筹投资
+4597,润海投资
+4598,经世投资
+4599,安润和投资
+4584,联动中国资本投资
+4600,海信汇通
+4601,德实投资
+4589,普威投资
+4590,浙江安信资产
+4571,雷石合安
+4572,领锐科投
+4594,汇创资产
+4595,东来投资
+4604,大新机构
+4592,兴诺创投
+4622,华浩投资
+4613,天度投资
+4614,龙富投资
+4631,天益汇通
+4632,汉融科投
+4634,盛乾资本
+4635,蓝融投资
+4626,五牛基金
+4617,风瑞投资
+4630,新安创投
+4643,广通投资
+4675,华商盈达创投
+4676,惠宇投资
+4669,禾今投资
+4670,财富基金
+4673,广诚投资
+4656,北方联合
+4658,力彦创投
+4662,龙鼎资产
+4663,东银投资
+4643,广通投资
+4658,力彦创投
+4675,华商盈达创投
+4676,惠宇投资
+4677,金汇资本
+4703,东圣投资
+4704,开来投资
+4681,汇银合富
+4682,新能资本
+4689,正邦投资
+4687,冠凯投资
+4705,中金创新资本
+4695,万泽投资基金
+4709,苏州中昊
+4734,康荣投资
+4735,大盟汇信
+4713,三菱科瑞基金
+4715,元亨盈盛
+4732,富丽投资
+4726,鼎泓乘方
+4722,华晨成长投资
+4719,川谷汇投资
+4717,建信财富
+4729,易圣栏投资
+4744,威豪创投
+4745,陕西华通创投
+4751,时代创投
+4742,大西部创投
+4737,天津长城国汇
+4768,富欣投资
+4753,建国创投
+4740,费伦华茂投资
+4762,广宇创投
+4757,君联盛投资
+4814,冠亚投资
+4815,玄元投资
+4782,蓝桂资产
+4784,华夏信诺
+4804,财智创投
+4779,中澳财富
+4806,中博投资
+4784,华夏信诺
+4787,嘉和融通
+4820,天铜创投
+4782,蓝桂资产
+4844,天际创业
+4856,世纪方舟资本管理
+4852,蓝点投资
+4853,赣州高能创投
+4835,金运电气
+4837,泛亚创投投资
+4827,平能创投
+4832,睦和投资
+4825,龙树投资
+4839,天路创投
+4899,蜀祥投资
+4901,中部创投
+4891,北京银信
+4892,国富投资
+4873,碧城创投
+4866,栋盛国际
+4870,中大凯思
+4901,中部创投
+4892,国富投资
+4891,北京银信
+4921,唐融投资
+4899,蜀祥投资
+4926,天沐君合投资
+4913,图原资产管理
+4909,汇富银创投
+4906,武汉中富
+4950,厦门高新
+4951,创翼创投
+4938,景隆资产北京
+4947,中城赋比兴
+4946,清朗资本
+4931,公牛资产
+4934,融科投资
+4954,东润创投
+4941,德州创投
+4976,苏州紫光创投
+4977,富坤中技
+4967,凯石投资
+4958,鼎川投资
+4979,重庆富坤
+4965,杭州驷腾投资
+4972,合和百富投资
+4971,星鼎投资
+4957,鑫东森创投
+5010,天财资本
+5011,蚌埠科投
+5016,哈德森扬州
+5017,联众创投
+4983,德信资本
+5000,金社投资
+5003,伙星人投资
+5012,铸龙投资
+5007,苏州高投创投
+5004,中金石创投
+4992,九吾医疗投资
+4990,中科精英
+5023,沃金投资
+5028,上海中小创投
+5029,正旺创投
+5030,宝来德资产
+5052,乐峰量子
+5054,融磊资本
+5019,福汇投资
+5042,新力世纪创投
+5043,智和资本创投
+5057,海之龙基金
+5046,上同投资
+5032,龙泽资本
+5033,华严创投
+5050,一通投资
+5074,中朴创投
+5076,融仕达投资
+5088,鼎恒瑞投资
+5073,凯达佳瑞
+5085,景上花创投
+5096,高沣投资
+5097,体创资本
+5093,国商投资
+5094,高新盈创
+5099,华光资本
+5088,鼎恒瑞投资
+5085,景上花创投
+5091,创力投资
+5076,融仕达投资
+5080,谈石投资
+5082,永兴投资
+5116,懿灏投资
+5118,晟高基金管理
+5112,金慧投资
+5113,甬港无咖投资
+5139,中国私募基金
+5109,融投创投
+5110,今盛创投
+5103,金兆资本
+5107,富成创投
+5139,中国私募基金
+5120,仁和金砂
+5121,美投高新投
+5157,谦心投资
+5158,银帅特
+5161,财富联合
+5150,富基投资
+5153,冠及投资
+5142,睿鑫投资
+5134,元坤投资
+5170,中广长城投资
+5189,华应美
+5190,怡和嘉投资
+5167,泰发基金
+5205,蓝色产业基金
+5206,明智合信
+5183,生物医药基金
+5184,明业上海
+5187,金汉投资
+5181,闽天投资
+5187,金汉投资
+5181,闽天投资
+5198,万亚创投
+5229,山东文化基金
+5220,润泰投资
+5222,凤颐创投
+5213,裨益丰
+5235,亨智投资
+5236,钛胜投资
+5246,海益投资
+5223,中启东投资
+5218,信保投资
+5225,生扬管理顾问
+5259,石天资本
+5249,海兆资本
+5250,锦江德尔
+5271,瑞同投资
+5273,锦源永泰
+5251,协和知达
+5252,太平星投资
+5264,睿合广润
+5252,太平星投资
+5287,日信集团
+5270,瀚锦投资
+5271,瑞同投资
+5290,东电投资
+5291,台元创投
+5273,锦源永泰
+5288,环球银证
+5289,高能华东投资
+5276,民生商联
+5280,乾源投资
+5284,慧联投资
+5277,苏州泓域投资
+5279,大正元投资
+5317,正德恒生
+5298,财富创投
+5312,万锐投资
+5300,西咸发展基金
+5332,金永信投资
+5293,金点投资
+5307,京富融源
+5363,万通深国投
+5364,宏海投资
+5344,盛达瑞丰
+5346,普特投资
+5359,融典投资
+5360,金泉投资
+5353,盛天投资
+5349,厦门拉隆基金
+5358,汉威方德
+5355,富海盛基
+5339,金达创投
+5347,申威投资
+5389,乐赛新能源创投
+5390,黄河创投
+5391,新远景佑成
+5368,赛苏投资
+5369,汇银合创
+5400,银宏基金
+5388,廊坊开发区科创
+5369,汇银合创
+5431,锦道投资
+5391,新远景佑成
+5392,汇丰·南丰
+5437,吉商基金
+5438,通辽创投
+5411,吴中国发创投
+5413,北京股权投资
+5400,银宏基金
+5402,工银洲际
+5433,浩远投资
+5415,晟乾投资
+5446,富德创投
+5450,天使百人会
+5469,渤海国投
+5471,万城创投
+5445,猫眼资本
+5466,上海医药
+5452,南京高科
+5459,重庆光控
+5477,奇益投资
+5478,紫石资本
+5484,蓝源投资
+5486,镕晟投资
+5498,国资管理中心
+5481,徽商基金
+5475,聚益投资
+5496,港航投资
+5473,亨通永源
+5508,神剑并购基金
+5509,神剑策略基金
+5543,爱尔眼科
+5546,杭州银行
+5540,景坤达
+5541,康美药业
+5529,天和创投
+5530,鸿富创投
+5516,蒙牛
+5517,白下区种子基金
+5555,广州融众创投
+5535,哈药股份
+5551,易德增投资
+5553,天津艾格
+5530,鸿富创投
+5546,杭州银行
+5529,天和创投
+5540,景坤达
+5562,宝典资产
+5563,沪域资本
+5577,兰石启元
+5578,壹佰投资
+5559,焦作亿象
+5560,德鑫创投
+5567,创盈投资
+5587,瑞懋时代投资
+5589,明日资本
+5590,仁和智本
+5581,盈鑫国际
+5573,泰丰拓展投资
+5575,君创百基投资
+5595,上海高能创投
+5596,凯悦资本
+5597,高吉创投
+5618,竑观投资
+5619,昆通投资
+5612,光谷国发
+5614,太钢创投
+5610,天津中金博帮
+5611,鼎麓投资
+5599,上创骏强投资
+5615,光谷华发
+5604,新禧创投
+5593,伟星创投
+5601,威通投资
+5641,西金资产
+5642,长沙高新投
+5638,盛日融旺
+5639,网宇科技
+5643,汇投投资
+5643,汇投投资
+5639,网宇科技
+5641,西金资产
+5662,必帮创投
+5663,广土农业
+5674,中菊财富
+5667,江西中金创投
+5669,中盟世纪创投
+5647,中韩通信基金
+5648,越商投资
+5646,盈科创投
+5650,三房巷创投
+5688,中富蓝海
+5700,深圳创投基金
+5701,东海资本
+5705,宏发投资
+5707,广和投资
+5699,泰华德勤
+5723,世银京投
+5719,晟鼎创投
+5682,东沃投资
+5694,百顺投资
+5750,威克特投资
+5751,信亿通
+5753,中山泓华
+5754,旭鼎投资
+5735,梅州中科
+5749,同昌投资
+5744,海南城建
+5731,七友投资
+5745,金堂元通
+5763,鑫富投资
+5764,天壕投资
+5760,三屋创投
+5761,新君安投资
+5781,瞪羚投资基金
+5782,吉天投资基金
+5774,圆核资本
+5775,天津和源信
+5788,拉芳舍投资管理
+5771,恒生资产
+5790,华鸿景开投资
+5776,中阿创投
+5777,正合创投
+5779,李字创投
+5802,证元创投
+5794,泰德创业
+5813,华夏桃李资本
+5809,华臻投资
+5800,馨美创投
+5793,瑞园创投
+5823,富晶资产
+5829,连海创投
+5834,君翼博星创投
+5838,智盈空间
+5841,农天投资
+5832,明华银翔创投
+5848,上海锐迅
+5824,利苗创投
+5827,兰州博汇创投
+5841,农天投资
+5832,明华银翔创投
+5853,新录创投
+5843,和福创投
+5884,和融创投
+5885,北京中泽信
+5886,盛华投资
+5863,兆能投资
+5866,乾盛乾资本
+5879,常熟国发创投
+5893,水晶球创投
+5895,深圳久银投资
+5899,天紫微投资
+5890,江苏红土
+5878,协睿创投
+5905,上海新湖创投
+5906,彤道投资
+5907,君道易达投资
+5921,中企港资本
+5922,南昌低碳环保产业基金
+5918,高新明鑫创投
+5895,深圳久银投资
+5903,汉理前景投资
+5913,源通投资
+5921,中企港资本
+5922,南昌低碳环保产业基金
+5926,厦门中和元投资
+5930,盛屯投资
+5951,稳兴投资
+5953,瀚兴投资
+5954,聚之源投资
+5936,天津睿银投资
+5938,龙鹰投资
+5947,点金投资
+5995,金博大投资
+5996,蓝桥资产
+5962,和润泽投资
+5955,汇通盈富
+5988,移山投资
+5958,标泰投资
+6004,益盈投资
+5996,蓝桥资产
+5988,移山投资
+6013,巨匠投资
+6017,海宁宏达
+5995,金博大投资
+6000,宸瑞投资
+6010,智博投资
+6001,沪宁投资
+6022,天津科控集团
+6039,大连创新投
+6049,荣盛创投
+6037,沅渡创投
+6070,中云投资
+6071,浙大正合
+6059,鼎弘福瑞
+6034,尚诚永盛
+6036,金嘉源投资
+6026,力成投资
+6025,涌瑞投资
+6080,金灿投资
+6076,GlobeEarth创新产业基金
+6078,华盈兴盛
+6082,天河投资
+6059,鼎弘福瑞
+6085,开开门资本
+6071,浙大正合
+6070,中云投资
+6114,坤鼎投资
+6140,骥达投资
+6133,盛信开元
+6105,建信财达
+6106,明圣龙庆
+6122,拓晖本裕
+6124,福天润投资
+6101,昊基投资
+6141,黄杉投资
+6096,泓德投资
+6126,淮南创投
+6164,中宇科投
+6126,淮南创投
+6166,汇铭投资
+6167,和缘创投
+6161,优格资本
+6164,中宇科投
+6165,瑞曼投资
+6171,东方嘉信创投
+6172,钰盛投资
+6175,志成信基金
+6176,始创投资
+6169,昊泰投资
+6184,大伟投资
+6182,浙佳投资
+6193,祥润创投
+6194,华沪投资
+6215,中金国瑞投资
+6195,万利嘉鑫创投
+6235,合锐投资
+6226,久元股权投资
+6211,英飞投资
+6211,英飞投资
+6224,谨业投资
+6208,勤成投资
+6206,宝瑞股权投资
+6258,玖洲创业投资
+6259,德程资本
+6266,和福创业投资
+6267,华纳投资
+6239,昭融股权投资
+6241,银利华投资
+6268,农合股权投资
+6270,石溪创业投资
+6277,鑫融投资
+6278,天同投资
+6242,邦成投资
+6243,毅捷投资
+6255,鸿翔盈富
+6238,天际创投
+6249,弘越投资
+6307,十分咖啡-十分资本
+6293,华昱同创
+6270,石溪创业投资
+6277,鑫融投资
+6288,牧童投资
+6278,天同投资
+6309,昆仑信托
+6307,十分咖啡-十分资本
+6301,博越金成
+6317,泓源合一
+6321,津森投资
+6314,智慧树投资
+6331,志良股权投资
+6312,旭阳投资
+6340,永懋投资
+6366,蚂蚁雄兵投资
+6367,启宸资本
+6354,华润三九
+6355,贝成投资
+6356,美好愿景
+6357,同源泰投资
+6366,蚂蚁雄兵投资
+6380,余杭创投
+6355,贝成投资
+6356,美好愿景
+6357,同源泰投资
+6385,太极云软
+6372,金巨牛
+6416,优尔投资
+6419,砾石资本
+6420,云南创立投资
+6422,众人股权投资
+6423,印尼力宝集团
+6393,恒增投资
+6402,科融高投
+6403,融源资本
+6392,大信投资
+6404,南方资产
+6400,葆霖投资
+6389,沃川投资
+6430,钜派投资
+6422,众人股权投资
+6430,钜派投资
+6423,印尼力宝集团
+6436,杭州锦江集团
+6439,狐狸元素基金
+6442,Plymouth Ventures
+6480,名盛资本
+6487,信诺资本
+6488,当当网
+6484,沪江教育-互桂基金
+6449,鼎尖投资
+6483,万好万家文化
+6457,无界空间
+6478,体坛传媒
+6500,强合基金
+6509,尼莫创投
+6497,四方创投
+6502,宜华资本
+6506,季胜投资
+6490,星球六鞋业
+6520,恒牛资本
+6521,杉华投资
+6516,诺瓦资本
+6542,天木资本Skywood Capital
+6543,承泰科技
+6533,铂欣资本
+6534,清源联创
+6512,恩斯奎M Square Capital
+6517,TEAKONG资本
+6560,常州产权交易所
+6561,天成资本
+6563,易科汇资本
+6548,光亮资本
+6550,InteBridge英智资本
+6573,中融鼎新
+6579,鼎世创投
+6612,领力资本
+6613,厚扬投资
+6581,0331创投
+6605,贝肯资本
+6626,蛋壳投资(动脉网)
+6612,领力资本
+6613,厚扬投资
+6631,苏美达资本
+6629,奋毅资本
+6605,贝肯资本
+6635,马笛儿投资
+6648, 金光紫金股权投资基金
+6669,云禧资本
+6668,中科院深圳育成中心
+6633,卓实基金
+6656,旭诺资产
+6677,新媒创投
+6693,新恒利达资本
+6694,清晨资本
+6692,深北创投
+6689,力合华睿
+6682,清谷资本
+6697,益通资产
+6705,高娱资本
+6712,凌晨资本
+6689,力合华睿
+6709,乾德资本
+6705,高娱资本
+6756,弘克投资
+6766,大辰投资(九桥资产)
+6739,天琪投资
+6740,一臂资本ArmVC
+6750,中视资本
+6751,盛势资本Sunrise
+6722,大正投资集团
+6732,星峰资本
+6748,21基金
+6763,伯符投资
+6792,宏奇资本
+6814,景裕资产
+6812,Bits x Bites
+6811,创客邦
+6802,宏时资本
+6837,协同投资
+6802,宏时资本
+6865,申万宏源
+6837,协同投资
+6860,华资资本
+6878,彤欣资本
+6871,上海弘晖
+6868,金鼎资本
+6851,UFO创投
+6911,亦庄互联基金
+6891,深圳紫荆创投
+6884,新川资本
+6941,东方翌睿
+6935,鸿坤亿润投资
+6933,万乘资本
+6919,温青创投
+6921,科翔资本
+6936,恩美投资
+6974,泽山资本
+6957,东方邦信创投
+6950,国投科创
+6953,臻值资本
+6978,海子资产
+6993,巨杉资产
+6995,优化资本
+7005,凡麦资本
+6998,原色咨询
+6985,启纳创投
+7032,景荣基金
+7037,安可资本
+7017,合源资本
+7018,晨稷投资
+7024,财信集团
+7021,诺思华资本
+7044,浅月资本
+7045,中天国富证券
+7054,斐君资本
+7038,广觉资本
+7076,慧榕资本
+7077,中交资产
+7080,天玑创投
+7077,中交资产
+7072,创互FA
+7094,普为资本
+7107,水木创融
+7129,有余金服
+7121,厚合资本
+7104,深圳独角兽资本
+7159,棕榈资本
+7160,富海资本
+7154,同德资本
+7161,磐石基金
+7184,潇湘资本
+7186,北拓资本
+7187,复昇投资
+7189,元泉资本
+7179,星湖资本
+7180,则金基金
+7182,星鸾资本
+7183,同炬资本
+7211,锦云投资
+7194,格局投资
+7208,粤嘉基金
+7220,贵景资本
+7248,中兴创投
+7251,有汉投资
+7269,洽雨资本
+7285,安朴资本
+7286,满京华
+7262,中瑞润和
+7280,ATM capital亚洲科技媒体基金
+7282,唯贤资本
+7279,飞马投资顾问
+7273,瑞安基金
+7272,金石资本
+7299,翔御资本
+7300,尚腾资本
+7320,华海投资
+7291,美安盛投资（中国）
+7292,昆吾产业
+7322,中扶众望
+7322,中扶众望
+7341,中平资本
+7342, 华本创投
+7343,合平资产
+7339,新松投资
+7330,壹步资本
+7361,自觉资本
+7357,中安创投
+7378,启迪控股
+2830,重庆科风投
+7382,同润科投
+7372,一粟资本
+7393,Wavemaker Partners
+7392,FJ Labs
+7408,Focus Ventures
+7423,开弦资本
+7430,繸子资产
+7451,天马股份
+7454,Emil Capital Partners
+7477,Presence Capital
+7511,ISIF
+7512,光大控股
+7514,Brand Capital
+7539,启峰资本
+7613,蛮牛投资
+7617,Samaipata Ventures
+7625,南翔创投
+7652,首控集团
+7633,汇利华创投
+7640,Neomed Management
+7641,Nauta Capital
+7644,Mobeus Equity Partners
+7669,灏源资本
+7660,长路体育
+7662,连一资本
+7664,谢诺辰途
+7674,花旗银行Citibank
+7676,致云基金
+7693,Sageview Capital
+7705,万朋资本
+7693,Sageview Capital
+7705,万朋资本
+7708,创合汇资本
+4022,万方发展
+2380,中国太平
+37,优点资本VantagePoint
+46,北京泽一投资
+41,CA创投
+52,乐搏资本
+57,现代传播
+73,国富源投资
+74,网秦
+88,TMI台湾创意工场
+63,维西资本
+64,亚信联创
+90,晨脉创投-天使创业村
+91,中关村兴业
+83,上海浦软创投
+78,和通国际
+105,万嘉创投
+132,美盛创投
+144,国微技术
+145,名信中国成长基金
+156,森合投资
+175,顺网科技
+216,AngelVest天使谷
+217,龙渊云腾(当乐网)
+182,21世纪天使创投
+202,华策影视
+209,抱团创投
+203,成都金亚科技
+219,艺龙旅行网
+229,中泽嘉盟
+239,正赛联资本
+232,中国文化产业投资基金
+234,热酷游戏
+236,辉耀资本
+220,雷柏科技
+275,中投公司
+281,鼎晟天平投资
+260,湘鄂情
+259,金种子创投
+281,鼎晟天平投资
+292,Granite Ventures
+285,福田投资
+302,Mustang Ventures愈奇创投
+284,趣游科技
+307,Brookside Capital
+318,Expansion Venture Capital
+320,远望谷
+331,Technology Venture Partners
+336,Blacksmith Capital
+329,富智康（FIH Mobile）
+357,Juniper Networks
+381,怡和创投
+390,General Electric
+395,Wicklow Capital
+355,Bay Partners
+383,Zouk Capital
+403,Serena Capital
+437,Cedar Fund
+455,NXTP Labs
+464,Advance Digital
+445,Acadia Woods Partners
+514,拓维信息
+515,SOS Ventures
+496,北京创客空间
+528,German Startups Group
+529,The TCW Group
+493,GSV Capital
+506,A-Grade Investments
+509,Digital Sky Technologies
+520,nordic venture partners
+544,Acton Capital Partners
+545,青岛金王集团
+554,CB Alliance
+548,Atlanta Ventures
+537,Kite Ventures
+585,力鼎资本
+576,Dropbox
+567,DominateFund
+568,Amidi Group
+579,Globespan Capital Partners
+571,Jupiter Golf Network
+600,爱施德
+602,INVESCO Private Capital
+597,Digital Luxury Group
+604,DoCoMo Capital
+606,IndoUS Venture Partners
+589,Watson
+645,巨龙管业
+646,银之杰
+636,Adyoulike
+637,Techno Group
+639,FCA Venture Partners
+668,VMware
+648,Microchip Technology
+653,Double M Partners
+673,Imagination Technologies
+657,TabTale
+666,Park Road Associates Ltd.
+660,Pejman Mar Ventures
+683,杭州新世纪
+684,云溪投资
+686,Lynda
+688,Life Science Angels
+678,Northleaf Capital Partners
+679,W Media Ventures
+701,游久游戏
+706,天使投资人吴泳铭
+707,华录百纳
+681,Second Century Ventures
+744,荷兰汇盈资产管理公司
+745,华闻传媒（上海鸿立）
+739,广州日报集团
+733,ESN Group
+727,Militello Capital
+749,Enterprise Ireland
+771,Bright Capital
+769,Moore Venture Partners
+757,Easton Capital
+780,上海国际创投SIGVC
+811,Uniseed Ventures
+775,Mig33
+807,Vimeo
+787,Chegg
+842,网龙网络(M Fund)
+832,ESSEC
+833,华数传媒
+815,Naya Ventures
+816,T-Venture
+847,东方元鼎资本
+820,Hummer Winblad Venture Partners
+817,Floreat
+841,KRW Schindler Investments
+870,北纬通信
+872,Victory Park Capital
+855,Delphi Ventures
+873,North Hill Ventures
+850,Pinehurst Advisors
+873,North Hill Ventures
+881,Palo Alto Networks
+932,北京中民银发投资
+933,北京正阳富时投资
+936,观唐投资
+937,瑞盈卓越
+921,天舟文化
+940,文化长城
+917,Forgame云游控股
+911,商业价值
+902,Millhouse
+899,道博股份
+944,新国都
+945,浙江九仁资本
+953,Northwater Capital
+948,Venture United
+950,Novus Ventures
+955,TOM集团
+946,宝利来
+958,SanDisk
+961,HomeAway
+963,Scentan Ventures
+986,Diaz Nesamoney Opus Capital
+989,A8音乐
+975,263网络通信(二六三)
+971,亿纬锂能
+977,IMM Investment
+982,Karlin Ventures
+984,Fortisure Ventures
+996,Blackbaud
+1003,凯撒文化
+1004,Asia Pacific Capital
+1039,创源InnoSpring
+1019,赛为智能
+1020,甲骨文Oracle
+1006,Union Grove Venture Partners
+1011,Monsanto Company
+1016,Flipboard
+1050,Meakem Becker Venture Capital
+1063,华谊嘉信
+1058,North Coast Technology Investors
+1059,RSL Venture Partners
+1057,Arsenal Venture Partners
+1047,Skyscanner
+1048,Oculus VR
+1074,Jumpspeed Ventures
+1076,Corus Entertainment
+1086,AlphaPrime  Ventures
+1087,The Social Internet Fund
+1095,Liberty Media
+1096,Scripps Networks Interactive
+1079,Expedia
+1112,Travefy
+1080,Arrowgrass Capital Partners
+1137,联通
+1129,Singapore Press Holdings
+1127,Naranya Labs
+1128,天云睿海创投
+1125,Alta Ventures Mexico
+1123,South Ventures
+1133,利华投资
+1157,Valor Capital Group
+1158,国投高科
+1150,AMD Ventures
+1143,Origin Ventures
+1154,Drive Capital
+1152,Atlantic Capital Partners
+1162,RDSeed
+1147,Northcap
+1159,Higgland Capital Partners高原资本全球
+1164,Lion Wells Capital
+1177,The Danish National Advanced Technology Found
+1195,Madrone Capital Partners
+1169,Gloabal Founders Capital
+1170,Beyond Digital Media
+1191,中援应急投资有限公司
+1174,River Cities Capital Funds
+1185,FJME Ventures
+1189,SmartCap AS
+1224,Rho Ventures
+1225,贝祥投资集团
+1248,Xilinx
+1242,Quest Venture Partners
+1218,初灵信息
+1253,群兴股份
+1237,lool ventures
+1252,Kapipal
+1299,Rand Capital
+1300,元素资本
+1301,Atlanta Technology Angels
+1287,蓝色经济区产业投资基金
+1288,LionBird
+1289,微玺投资
+1274,浩然资本
+1278,Kindler Capital
+1267,大东南
+1256,Riverside Partners
+1337,维思资本
+1338,Columbus Nova Technology Partners
+1321,友阿股份
+1337,维思资本
+1338,Columbus Nova Technology Partners
+1358,和光资本
+1360,安卓信创投
+1361,盛磐投资
+1324,Aeris Capital
+1335,大智慧
+1397,Altpoint Ventures
+1396,今日投资
+1385,安思晟投资ACEON
+1377,乐顺创投
+1390,瀚霖资本
+1417,虎童基金
+1403,中传集团(中传视讯)
+1404,QueensBridge Venture Partners
+1407,伙伴创投
+1420,九易资本
+1424,中国动力控股(China Dynamics)
+1410,Massachusetts Technology Development Corporat
+1412,四川圣达
+1489,ATA教育
+1490,红岭创投
+1456,易宝支付
+1447,东方汇银资本
+1434,山水文化
+1468,三五互联
+1469,钜铖资本
+1445,Mantella Venture Partners
+1484,江粉磁材
+1524,北信源
+1494,博信资本
+1503,高恒资产
+1527,游心旅行
+1522,华溢资本
+1509,莉莉丝
+1542,Yelp
+1529,全通教育
+1530,南京新百
+1549,Culture Convenience Club (CCC)
+1547,Air Liquide法国液化空气
+1579,新加坡华侨银行
+1580,粤商创投
+1561,Eastlink Capital
+1562,链家地产
+1564,NXP Semiconductors
+1567,Columbia Capital
+1568,S3 Ventures
+1584,刚泰控股
+1575,百分点
+1571,GAME
+1614,进化资本
+1615,当升科技
+1591,华地财富
+1612,考拉资本
+1620,天津安正路投资
+1618,前程无忧
+1610,PBA
+1595,Opera
+1660,德美化工
+1636,蓝港互动
+1637,Investec英国天达集团
+1657,中汇国投
+1634,曲速创投
+1652,青青稞酒
+1648,青宥仟和投资
+1709,高览资本
+1690,TA Associates
+1688,鸣客资本
+1674,Evergreen Venture Partners
+1675,Maker LLC
+1698,上海中金资本
+1694,Amplify.LA
+1727,克拉天使
+1728,蓝石天使基金
+1739,联创光电
+1731,Heritage Group
+1721,弘俊财富
+1723,新华都
+1758,实益达
+1759,引力创投
+1766,太冠资本
+1767,暴风科技
+1763,中大创投
+1749,是成资本
+1750,功夫熊
+1747,天润仪器
+1832,美拓资本
+1782,沃石投资
+1811,江苏三友
+1833,JVP
+1850,青骢资本
+1838,Principia
+1860,兰天控股
+1882,奥迈资本
+1861,好贷网
+1847,潮星集团
+1921,任飞资本(任飞投资中心)
+1888,远方光电
+1891,分期乐
+1913,深科技
+1914,大舍资本
+1907,中邮资本(中国邮政)
+1948,前海人寿保险
+1940,奥瑞金
+1963,广州科技风投
+1942,中国瀛晟娱乐
+1960,点到按摩
+1967,浙江文创控股集团
+2000,火石资本
+1983,复娱文化
+2002,丰利财富
+1996,思远投资
+2031,黑洞投资
+2045,鲁证创投
+2017,硕贝德
+2040,前海首润投资
+2044,皖新传媒
+2035,常州高新投
+2019,万安科技
+2050,秉诚资本
+2049,人人贷
+2031,黑洞投资
+2040,前海首润投资
+2035,常州高新投
+2101,蓝山投资
+2092,宝通科技
+2093,众信旅游
+2088,陌陌科技
+2096,梧桐理想资本
+2081,晨光文具
+2108,威盛电子
+2109,江南化工
+2118,简鸣资本(阿甘众筹)
+2119,国旅联合
+2125,红马资本
+2129,亿联资本
+2123,文资华夏文化产业基金
+2124,湖杉资本
+2103,正泰电器
+2115,点量兴业投资
+2115,点量兴业投资
+2171,凯洲资本
+2161,石基信息
+2167,Jaina Capital
+2168,微派创投基金
+2175,道富资本
+2151,星火金融
+2146,天使投资人沈海寅
+2189,孝昌水木投资
+2217,边锋游戏
+2214,珠南集团
+2213,8天在线
+2177,同道齐创
+2184,艾迪西
+2261,题梦资本
+2262,熠美投资
+2264,正威集团
+2277,汇冠股份
+2238,风投侠
+2252,Athyrium Capital Management, LP
+2288,荣信股份-梦网荣信
+2289,博观资本
+2304,龙耀资本
+2305,高新兴科技
+2306,中通银泰投资
+2310,立讯精密
+2278,Inventure
+2281,盛邦裕廊 Surbana Jurong Private Limited
+2282,远东 Far East Ventures
+2286,容银资本
+2299,明牌珠宝
+2332,明嘉资本
+2337,乾源资本
+2338,祖禾资本
+2345,ONES Ventures
+2316,杭州蜂窝投资
+2318,佳讯飞鸿
+2322,数联资本
+2336,天使投资人陈中
+2348,壮丽峰景
+2375,华天资本( 华天控股)
+2354,瑞财基金
+2357,同系资本
+2371,华天资本Hallton Capital
+2351,诺辉投资
+2372,百事佳集团
+2400,弘信创业
+2398,青鸟基金
+2408,我爱我家明道资本
+2409,筋斗云投资
+2384,易简广告-易简资本
+2387,联创好玩
+2394,Light Street Capital
+2404,前海吉祥基金
+2390,Neuehouse
+2434,南极圈
+2438,昆药集团
+2439,凡卓资本
+2437,京桥资本
+2421,盟云移软
+2439,凡卓资本
+2466,朱雀投资
+2454,华胜天成
+2460,方信资本
+2461,蓝光引力
+2458,深天地A
+2497,华滨创投
+2473,北京智美红土体育文化产业投资基金
+2475,冠军VC
+2484,CVC Capital Partners(CVC资本)
+2477,探路者和同体育产业并购基金
+2478,雷曼凯兴体育文化产业投资基金
+2501,重庆市产业基金
+2502,丁香园
+2469,晨曜资本(晨之科)
+2492,麟玺创投
+2487,真实资本
+2528,金砖资本
+2513,跨星创投
+2514,岚源资本
+2515,乐清聚丰
+2519,新秀集团(开创资本)
+2511,臣易资本
+2532,淳时资本
+2503,九毛九餐饮
+2508,阿基米互联网公社
+2554,中联基金
+2555,科金控股
+2556,赋哲投资
+2536,中骏基金
+2546,宏流投资
+2567,中俄投资The Russia-China Investment Fund (RCIF)
+2593,木棉资本
+2594,Khazanah Nasional Berhad
+2597,禾生资本
+2580,华创智业
+2623,金一文化
+2624,雅瑞资本
+2606,旷谷资本
+2617,重庆高新技术开发区创新服务中心
+2624,雅瑞资本
+2625,易真资本
+2623,金一文化
+2636,微鲸科技
+2630,源创投资
+2640,启嘉创投
+2628,众乐投资
+2634,永不落幕资本
+2618,正茂创投
+2647,高桐资本
+2664,深圳菁葵投资
+2659,塔岩投资
+2670,Binggo天使
+2645,三坤投资
+2713,广田控股
+2679,沃尔核材
+2688,富腾资本
+2699,万向集团
+2682,恒信移动
+2704,清华银杏天使基金
+2707,兰德创投
+2715,文化传信
+2716,华南创投
+2694,史努克创投
+2736,济南华科创投
+2737,同道资本
+2724,北辰星资本
+2725,零加壹投资
+2730,万丰友方投资
+2765,前海梦创
+2743,红山资本
+2769,中原科创风投基金
+2770,浙江千合并购基金
+2789,英联资本
+2816,浦东科投
+2815,上海科投
+2806,深圳高新投
+2792,汇睿资本
+2811,中科宏易
+2774,铂泉资本
+2847,光彩49集团
+2828,中美桥梁
+2838,华兴创投
+2820,天宝富
+2841,世方联
+2843,铂源资本
+2849,海泰投资
+2833,中盛创投
+2844,弘迈中国
+2832,上海生物芯片
+2855,浙江科投
+2856,通环创投
+2866,江苏高科产业投
+2868,安牧
+2853,软银中印
+2854,思格资本
+2871,欧瑞斯
+2863,河南创投
+2880,愈奇投资
+2875,长运兴安
+2873,上海汉世纪
+2902,石鼓资本
+2890,长虹创投
+2892,同华投资
+2886,嘉富诚
+2909,海泰创新资本
+2904,弘业国际
+2896,诚信创投
+2912,中华创投
+2897,云杉资本
+2943,津通创投
+2931,神州数码
+2932,康沃资本
+2926,无锡高新投
+2949,百利宏创投
+2938,天德创投
+2915,北润
+2935,富泰资产管理
+2941,AsiaAlpha
+2946,天禄创投
+2964,华穗创投
+2946,天禄创投
+2987,上海科投股份
+2989,开信创投
+2978,北工投资
+2983,大族创投
+2965,杭州泰邦创投
+2991,实地资本
+2969,凯亚投资
+2979,曼达林
+3019,领航资本
+3030,盛集投资
+3034,国信弘盛
+2993,新企创投
+2994,世盈创投
+3003,三生创投
+3022,中企汇金
+3016,盘龙投资
+3017,正润创投
+3001,云和资本(云和方圆)
+2995,盛诺金投资
+3073,野狼投资
+3074,中信信托
+3061,富涌谷资本
+3067,新世纪创投
+3069,帝沃森
+3039,海融投资
+3058,富莱晨思投资
+3065,中以基金
+3106,中金国科
+3107,赛速投资
+3108,无锡创投
+3096,合福资本(景瑞控股)
+3083,三智基金
+3114,海越创投
+3115,金丰汇智
+3109,中宇创投
+3095,文徽投资
+3103,中船产业投资
+3079,中投圣泉
+3129,安丰创投
+3130,新兴创投
+3115,金丰汇智
+3103,中船产业投资
+3114,海越创投
+3148,国元投资
+3150,同盛创投
+3145,君丰资本
+3162,陕西汉世纪
+3160,安益资本
+3141,乾谋创投
+3155,博瑞传播
+3174,瑞丰投资
+3151,高德创投
+3164,天地旅游创投
+3202,中国进出口银行
+3203,拥湾资产管理
+3214,新龙川创投
+3187,馨锐投资
+3183,银河创新资本
+3184,弘睿投资
+3186,牡丹江南创投
+3205,科桥投资
+3177,和鼎创投
+3241,大鹏创投
+3216,凯优股权
+3217,典度投资
+3245,青联投资
+3235,国联集团
+3222,杭高投
+3229,天津科投
+3234,永安信基金
+3224,中发君盛
+3244,银杉基金
+3256,开元基金
+3251,河南农开投
+3283,长江成长资本-长江证券
+3275,新以创投
+3260,瑞石投资
+3269,沃肯资本
+3260,瑞石投资
+3269,沃肯资本
+3294,汇智联合
+3292,徐州高新投
+3266,杨浦科技创业中心
+3305,中大投资
+3306,勤益科投
+3307,创新基金管理中心
+3326,晶隆投资
+3327,中农科创
+3334,祥荣创投
+3335,毅美投资
+3336,金安投资
+3324,贝凯投资
+3296,道丰投资
+3330,盟动力资本
+3314,金麟投资
+3309,亿文创投
+3333,金海川投资
+3372,凯晨资产
+3374,沃美投资
+3356,鼎新投资
+3384,普洛顿创投
+3385,海东科技创投
+3348,利华资本
+3370,麦瑞投资
+3362,晓扬科投
+3342,智盈投资
+3375,康通投资
+3344,重庆国创
+3394,道杰资本
+3396,温州创投引导基金
+3407,清华紫荆资本
+3408,天英创投
+3409,银通泰瑞
+3389,兴业创新资本
+3390,天凯基金
+3410,华鸿资产
+3412,大同创投
+3413,九派创投
+3417,武汉科技创新朝阳创投
+3431,融邦投资
+3432,向荣资本
+3409,银通泰瑞
+3410,华鸿资产
+3414,量科高投
+3423,涛石股投
+3472,翘然管理资本
+3474,创和投资
+3475,涟漪投资
+3482,天富投资
+3483,中瀚海联
+3451,黄河三角洲产业投资
+3469,第一上海
+3480,上策投资
+3463,立达投资基金
+3453,众享资本
+3457,老牛投资
+3509,星杉创投
+3510,康大恒远蓝海方舟
+3494,润波深蓝资产
+3488,成都科创投资
+3499,盛元丰亨
+3483,中瀚海联
+3516,厚道资本
+3517,津和投资
+3518,多氟多集团博嘉创投
+3510,康大恒远蓝海方舟
+3511,新科源科投
+3503,大众资本
+3505,华商盈通
+3509,星杉创投
+3524,维科创投
+3537,联盛创投
+3523,唯通资产
+3512,首域投资
+3502,东证融通
+3544,晨光宏盛
+3545,洪范基金
+3554,河北信息投资
+3539,温州人基金
+3541,鑫泽投资
+3576,新协创投
+3578,吴中高科
+3569,哈尔滨创投
+3574,亘元创投
+3575,镇江创投
+3579,东运创投
+3580,苏园创投
+3554,河北信息投资
+3563,沈阳创投基金
+3555,昌盛创投
+3556,聚能投资
+3566,聚元达创投
+3567,永泰国际资本
+3585,巨凝创投
+3589,卡氏中国基金
+3591,博大创投
+3624,许昌发展创投
+3626,锟桥创投
+3623,华融创投
+3624,许昌发展创投
+3639,科创天使投资
+3640,滨海财富基金
+3602,安徽科投
+3641,中节能投资
+3643,滨湖科技创投
+3626,锟桥创投
+3612,龙泰创投
+3614,立达创投
+3638,新纪元风投
+3599,华文投资
+3671,博泰创投
+3667,山西中小企业发展基金
+3654,重庆高新投
+3655,开创高新投
+3664,星光投资
+3673,富晨创投
+3644,雪杉基金
+3661,金凯高新投
+3648,新景地投资
+3685,恒生创投
+3687,邦睿投资
+3691,伊萨德
+3695,逸百年资本
+3689,泰华创投
+3676,凌翔创投
+3697,宝盛投资
+3705,田丰创投
+3700,天津贞元嘉富诚基金管理
+3701,瑞安建业资产管理
+3714,金华高投
+3715,云南高新投
+3716,世纪万通
+3709,海富通投资
+3710,普金资本
+3722,金犁风投
+3723,西安科投
+3725,甘肃风投
+3726,弘瑞成长创投
+3701,瑞安建业资产管理
+3697,宝盛投资
+3714,金华高投
+3739,洪山种子资金
+3747,桥力投资
+3748,光动力创投
+3749,We+母基金
+3736,昆仑投资
+3737,华清博远创投
+3726,弘瑞成长创投
+3728,亚欧联合资本
+3761,浙江中富
+3762,冠通创投
+3756,东方华路
+3758,大庆开发区高投
+3745,正泰投资
+3773,兆富投资
+3800,海银达
+3770,神都天骄投资
+3794,中科融创投
+3771,环宇创投
+3796,世华科投
+3797,青岛创投
+3782,歌萨尔金投资
+3783,罗湖创投
+3789,新泰祥宇
+3784,柏森投资
+3814,首一创投
+3815,金力方投资
+3801,复旦思德创投
+3822,苏州龙江投资
+3823,昆山风投
+3811,风创投资
+3806,博星投资
+3808,佳丰投资
+3819,竞择创投
+3804,中英低碳创投
+3817,和德盛创投
+3859,匹亿投资
+3861,厚石投资
+3850,银控科投
+3851,盛唐资本
+3826,泰州创投
+3827,中节投资产
+3861,厚石投资
+3862,华房投资
+3858,君富投资
+3859,匹亿投资
+3867,浙侨投资管理
+3872,中企股权投资
+3856,华策投资-华立集团
+3875,金清华基金
+3892,佳利泰创投
+3893,山海创投
+3890,西安创投
+3891,中信未来
+3877,大医博爱基金
+3901,科锐特创投
+3912,万融基金
+3881,科莱益创投
+3882,世裕创投
+3889,物华创投
+3923,南京科创投
+3924,信缘投资
+3926,火炬高新投
+3945,中粮农业产业基金
+3913,富赛基金
+3941,汇良创投
+3943,沙钢创投
+3935,长佑创投
+3931,东振创投
+3938,协银投资
+3974,开成创投
+3954,中大科技园
+3956,凯风正德
+3981,华信资本
+3980,嘉信理财集团
+3964,紫石投资
+3993,普凯创投
+3989,景隆资产
+3988,大雄风创投
+3968,优蓝创投
+4009,黎曼投资
+4010,双新科投
+4013,鲁证投资
+4014,金亿通科投
+3998,润佳和创投
+3999,海东投资
+4024,宁都创投
+4025,上海华源创投
+3995,赣商投资
+4005,优利浦斯
+4023,东合资本
+4019,我立得创投
+4051,湘财贯通
+4052,台湾工银科技
+4036,财胜投资
+4041,海通证券
+4031,君达创投
+4032,利达信创投
+4029,逸玖创投
+4048,境界投资
+4033,新宇创投
+4071,黄杉资本
+4072,百富源资本
+4052,台湾工银科技
+4054,华夏海纳
+4081,盛今创投
+4082,深远创投
+4060,独秀资本
+4061,国汇投资
+4051,湘财贯通
+4065,大生投资
+4066,和融投资
+4085,滨海大通
+4078,中驰创投
+4073,轻盐创投
+4121,东方基易
+4122,博正资本
+4117,汇石投资
+4123,方向投资
+4102,诚柏投资
+4103,同人博达
+4126,荷丰资本
+4128,中国明石
+4124,远见投资
+4125,合融资本
+4117,汇石投资
+4119,楚鼎创投
+4099,金石矿业基金管理
+4107,万盈投资
+4088,杉智投资
+4151,喜神资产管理
+4152,上石创投
+4145,商为资本
+4153,瑞鑫创投
+4154,青创投资
+4156,亚银合创
+4147,同盛卓越创投
+4161,元昊投资
+4135,华南通信投资
+4164,为润资本
+4168,博宇创投
+4176,君信创投
+4170,德昌投资
+4173,中乾证融
+4184,科智健创投
+4187,三九创投
+4182,深科创投
+4220,百禾通顺
+4199,神林基金
+4201,麓谷创投
+4211,瑞明创投
+4203,中新力合
+4198,遵义科投
+4234,东部科投
+4238,中洲沃顿
+4216,圣尔财瀚
+4250,汇江华盛
+4251,展银投资
+4277,和合创投
+4251,展银投资
+4253,小象创投
+4264,奇正道和
+4266,中通和达
+4273,恒丰美林
+4249,东方盛富
+4250,汇江华盛
+4243,劲嘉创投
+4258,同鑫汇
+4259,富泽东升
+4262,盛金创投
+4285,华仁投资
+4286,易普瑞创投
+4316,腾飞资本
+4308,金惠友创投
+4324,聚源创投
+4288,绿都投资
+4289,春华秋实投资
+4282,中科时富
+4293,银团创投
+4310,创富成长
+4363,银富投资
+4364,大成博信资本
+4366,福信投资
+4339,欧华创投
+4340,森泰创投
+4333,朝茂创投
+4334,中科尼盛
+4327,闽商创投
+4362,嘉明鸿创投
+4336,比克昊泽
+4360,深圳市君
+4378,锡山创投
+4379,英为创投
+4395,淄博创新资本
+4402,滨化投资
+4404,华升创投
+4383,万瑞达
+4399,若沐资本
+4402,滨化投资
+4409,氧气资本
+4426,君德富创投
+4430,正义合盈
+4404,华升创投
+4405,巨野汇通
+4418,沧州建设创投
+4414,普道创投
+4413,汇升联华
+4427,白鲸创投
+4424,汇禾创投
+4455,醴泉投资
+4433,华和科投
+4462,易畅投资
+4463,高成创投
+4451,乔戈里创投
+4453,交大顶峰
+4470,中科远东
+4459,海澜投资
+4468,华盛莱蒙
+4444,金中华创投
+4449,子平创投
+4494,海科创投
+4495,诚鼎投资
+4496,万德科投
+4476,金惠创投
+4507,泰尔润创投
+4498,华农科投
+4490,新利创投
+4491,飞腾创投
+4482,创翼德晖
+4499,北邮创投
+4480,五都投资
+4492,云雷创投
+4526,银家创投
+4527,汇商华邦
+4538,蓝晶创投
+4534,光音网络
+4510,科纳尔创投
+4517,红日创投
+4526,银家创投
+4527,汇商华邦
+4538,蓝晶创投
+4541,金承创投
+4582,开封文投集团
+4583,汇鑫丰投资
+4585,过桥投资
+4586,盛润创投
+4559,怀特豪斯
+4555,比邻创投
+4556,海聚创投
+4610,21世纪投资
+4566,弘仁投资
+4568,飞驰投资
+4573,民宇投资
+4605,百瑞银投资
+4587,月阳投资
+4627,长润金控
+4628,金禾基业
+4629,信泰天成
+4615,锐旗资本
+4616,博宁资本
+4649,中高投
+4651,中兴国际
+4623,格裕达
+4633,新海天资本
+4619,中科合众投资
+4652,陈盛仁和
+4644,乾丰投资
+4636,万荣投资
+4671,新至睿投资
+4672,誉博投资
+4692,协和投资
+4694,华胜投资
+4690,盈鑫投资
+4691,盈富投资
+4667,华邦投资
+4679,合富资本
+4680,鑫丘投资
+4661,同冀华成
+4690,盈鑫投资
+4691,盈富投资
+4692,协和投资
+4706,华勤投资
+4708,ICAN
+4712,楚祥投资
+4701,嘉华盛裕创投
+4694,华胜投资
+4696,机智股权投资
+4688,万基泰投资
+4710,新日投资
+4721,凯银投资
+4746,领庆创投TheLinhuiFund
+4733,恒资时代创投
+4741,博嵩资本
+4739,惠理投资
+4743,金典正丰
+4720,锦华赢富
+4775,华霖合创
+4776,浙商银行
+4758,东方国润
+4759,大鹏财富
+4755,貔亿投资
+4756,华慧投资
+4760,华云天美
+4780,中农高科投
+4781,鸿元投资
+4775,华霖合创
+4776,浙商银行
+4798,创徒丛林-创徒投资
+4799,蓝拓资本
+4800,建投创投
+4788,金鹰创投
+4789,电联创投
+4777,皆凯创投
+4778,百城基金
+4764,和利创投
+4765,和灵资本
+4785,安徽信投
+4771,天鑫投资
+4773,中顶伟业
+4797,福睿德投资
+4828,泰河创投
+4812,北京明日佳
+4813,国都创投(国都证券)
+4816,麒麟阳光
+4817,罗斯洛克
+4807,北京君正
+4808,博信高投
+4840,中投隆创
+4801,盈锐麒创投
+4833,云南产业投资
+4838,弘凯创投
+4865,凯容投资
+4867,英大资本
+4857,显德创投
+4858,德汇创投
+4859,田保投资
+4860,大农业发展
+4862,亚洲搭档
+4864,东源投资
+4850,科源基金
+4851,鹭远投资
+4855,九州投资
+4869,银华瑞信
+4878,博智投资
+4879,携富投资集团
+4880,三峡新能源
+4882,君士投资
+4883,联办投资
+4905,摩通资本
+4907,江苏中富
+4908,融达小额贷款
+4910,水星创投
+4903,香港摩通资本
+4904,江苏现代
+4896,牛仔投资
+4902,深圳摩通资本
+4894,摩根艾文红岩
+4922,北京信托
+4914,重庆正银广惠
+4894,摩根艾文红岩
+4910,水星创投
+4919,瑞富时代
+4959,浙江金桥创投
+4961,易生基金
+4980,富堃投资
+4929,云禾资本
+4956,润盛基金
+4943,宝升科投
+4982,宜兴科投
+4942,滨州高新投
+4955,致德创投
+4948,东原创投
+5013,卓景创投
+5014,盈瓯创投
+5015,明德天盛
+4984,鑫道资本
+4985,莲诚投资
+4995,世纪金源
+4997,香樟投资
+4989,德信联合
+5015,明德天盛
+5013,卓景创投
+5014,盈瓯创投
+5024,国旺投资
+5005,领投会中国投资人中心
+5038,盛维创投
+5031,中泰创投
+5034,浙商嘉海
+5035,华协创投
+5009,海泰丰瑞
+5026,鸿景创投
+5071,科伟科投
+5040,汉景家族办公室
+5048,共生投资
+5049,壹道投资
+5060,梦想者电影
+5072,天友高新产投
+5045,宏泰中汇
+5051,工顺投资
+5064,华慧创投
+5063,恒成创投
+5087,宏泰银科
+5105,鼎信宏图
+5101,恒锐源
+5098,中体运通基金
+5077,天启投资
+5078,顺薇创投
+5086,两岸产业基金
+5075,新疆中小企业创投
+5111,川联科投
+5119,汇致资本
+5125,海业投资
+5126,皖江物流产业投资
+5114,清林华成投资
+5131,昭瑞投资
+5132,茂元投资
+5124,博思辰光
+5115,汉华利禾
+5135,总商会投资
+5122,天缘科风投
+5128,辽海方舟
+5140,海风联投资
+5141,利合资本
+5165,青盟投资
+5163,碧海蓝湾基金
+5152,北京小城镇基金
+5146,元泰投资
+5172,红石先锋
+5162,金牛投资
+5159,意腾投资
+5151,紫槐汉世纪
+5194,辰林创投
+5191,明辉投资
+5193,华渥信投资
+5173,炫烨和盛
+5174,RDIF俄罗斯直接投资基金
+5208,金陵华软(金陵控股)
+5214,信文资本
+5186,中金增储
+5176,华信信达
+5202,北部风投
+5242,钱塘体育文化基金
+5217,绿色资本
+5248,橙力量投资
+5241,新俊逸投资
+5237,贝奈思投资
+5245,六汇
+5231,天鑫股权投资
+5230,弘林投资
+5224,银海资本
+5265,商融创投
+5266,中证大道
+5283,河北产业投资
+5260,统勤投资
+5261,泰迪投资
+5299,元气资本
+5294,天一资本
+5253,加锐投资
+5262,泰默投资
+5319,拉芳投资
+5320,博信投资
+5321,昭越投资
+5334,丰祥集团
+5335,绿信投资
+5303,中晨维金
+5304,中原资产(中原股权投资)
+5327,齐享资本
+5329,复华创投
+5310,智玺股权投资
+5343,远创投资
+5331,科丰科投
+5340,时利投资
+5324,宁凯创投
+5350,涌泉亿信
+5351,OPPO欧珀
+5352,银河金桥投资
+5348,科升创投
+5381,时轮投资
+5370,晋融投资
+5340,时利投资
+5372,泰傅易投资
+5393,鼎诺投资
+5394,春华明德
+5396,加华裕丰
+5397,恒安投资
+5381,时轮投资
+5399,量宇瑞元
+5376,春晖策略
+5385,睿祥投资
+5374,世荣兆业投资
+5405,融联创投
+5424,亦庄普丰国际创投
+5426,海德润正
+5416,北京华控汇金
+5417,贵阳科技基金
+5407,天泉创投
+5412,天彩控股
+5422,商络投资
+5436,业禾投资
+5428,和盟
+5429,万利赢石创投
+5421,赛众投资
+5422,商络投资
+5426,海德润正
+5453,海祥创投
+5455,民信投资
+5424,亦庄普丰国际创投
+5440,科发实业
+5463,武汉汉信
+5464,人众资本
+5485,久有股权基金
+5487,融卓投资
+5458,通盛时富
+5479,斯凯兰德投资
+5472,力奥盈辉
+5480,英飞海林创投
+5483,湖北高创转化基金
+5476,金海胜创投
+5518,旺根投资
+5519,福田汽车
+5504,新星纽士达创投
+5506,京国发投资
+5520,东方加华
+5528,弘石创投
+5489,富鼎投资
+5514,中资基金
+5510,高礼天使投资
+5534,仁和药业
+5536,凤凰基石
+5537,半岛基石创投
+5566,国润投资
+5568,深圳上银
+5548,天河惠禾投资
+5550,鼎汇通投资
+5531,融石投资
+5565,百山创投
+5552,鞍山创投
+5556,江苏华厦创投
+5556,江苏华厦创投
+5548,天河惠禾投资
+5545,合德创投
+5571,忠发投资
+5591,连线资本
+5592,道恒投资
+5602,豪庆投资
+5594,高能资本
+5583,京东方
+5579,汇丰海富
+5580,巨潮股权基金
+5576,天一和投资
+5585,天津德鲁克
+5605,日盛昌投资
+5656,湖北节能创新基金
+5657,惠旭金石
+5658,青耕投资
+5628,信卓投资
+5629,量宇壹投资
+5634,川融资本
+5635,农垦诚鼎投资
+5637,环渤海创投
+5652,航天科工资产
+5655,星光投资基金
+5644,新奥投资基金
+5620,嘉远基金
+5621,苏州产业创投基金
+5680,金蓉投资
+5681,鹏融投资
+5666,桂冶创投
+5668,航众控股集团
+5661,国信证券
+5690,融力创投
+5691,天创农业
+5664,广西中小企业创投
+5677,金华康创投
+5670,世纪红榕
+5676,福瑞投资
+5686,盛唐创投
+5712,鼎悦源信创投
+5711,中金泰富
+5704,深圳金鉴
+5706,红马智信
+5708,鑫塔投资
+5702,深商发展基金
+5703,中金嘉钰
+5715,国美鹏润资本
+5691,天创农业
+5718,海风联资本
+5732,嘉诚资本
+5733,国威赛纳-国威集团
+5734,盈正投资
+5748,合众资本
+5743,中乾景隆
+5752,金科资本
+5757,金艮集团
+5726,汇丰源
+5746,天佑投资
+5728,常州金码创投
+5729,五豪投资
+5746,天佑投资
+5768,以岭健康城-以岭药业
+5769,集成富达投资
+5762,宝安投资
+5766,鼎合环球资本
+5804,隽安股权投资
+5785,松海投资
+5784,龙祥嘉业
+5789,浙商恒硕
+5810,国信基金
+5839,九天资本
+5836,云桥创投
+5837,我友创投
+5833,福高创投
+5835,上海博辰创投
+5814,锦程投资
+5812,湖南国联投资
+5817,旬金投资
+5806,创星投资
+5818,复曦投资
+5854,保银投资
+5855,南山科创
+5859,千淘资本
+5860,湘潭两型社会产业投资
+5844,杭商创投
+5864,音创资本
+5847,日升昌行
+5858,沃利华投资
+5861,思新格创投
+5852,裕淼创投
+5842,圣兰创投
+5891,政兴投资
+5892,吉融投资
+5882,新美投资
+5883,天津诚信创投
+5874,联共创投
+5876,熠明创投
+5870,群晟资本
+5896,天华物联网基金
+5894,兴鸿基金管理
+5894,兴鸿基金管理
+5901,金博亿基金管理
+5876,熠明创投
+5888,麦盛投资
+5927,一壹星资本
+5928,诺鼎投资
+5919,国家航空产业基金
+5917,吉林银证投资
+5911,格力电器
+5924,百富投资
+5931,圆汇投资
+5929,威邦投资
+5934,巴银投资
+5914,旭幸投资
+5968,广汇投资
+5969,永泰汇金
+5949,广西北部湾产业投资基金
+5950,银江投资集团
+5942,ROOBO智能管家基金
+5976,元瑞富阳
+5974,天津科润投资
+5970,津威投资
+5945,麦金投资
+5952,荣源兴投资
+5986,德润投资
+5987,宣凯投资
+5978,瑞荣元投资
+5999,元祥投资
+5981,中金集英
+5982,金点子投资
+5989,华瑞中盈
+5985,弘富盛金
+5991,华鑫盈信
+6002,龙马投资
+6003,嘉盛投资
+5994,新盛二创投
+6020,鲍斯股份怡诺投资
+6038,兄弟空间创投
+6043,逸海投资
+6044,恒德盛投资
+6014,宝融投资
+6015,融汇投资
+6009,腾飞投资
+6011,顺飞投资
+6029,丰银投资
+6030,丰润投资
+6033,鼎丰投资
+6041,远卓投资
+6062,民联投资
+6050,华瓯东融
+6051,香塘创投（香塘集团）
+6063,银都投资
+6065,中国电信天翼创投
+6055,华元投资
+6056,金得投资
+6057,涛盛投资
+6058,诚悦至元
+6054,仲昌投资
+6068,道博投资
+6067,众诚投资
+6072,中俄投资
+6047,高能刺桐
+6108,美华汇金
+6109,德盛源投资
+6110,博汇投资
+6086,蓝桉投资
+6087,普拓投资
+6090,怀龙投资
+6091,豪哲投资
+6092,明德投资
+6095,爱德生物基金
+6099,飞度投资
+6107,浙信投资
+6103,睿思投资
+6097,统旺投资
+6116,富通德宝
+6117,大众投资
+6118,棋盘投资
+6155,大鑫创投
+6156,江铜投资
+6111,巨石创投
+6112,天成宝丰
+6131,东吴创新资本
+6132,智瑞德投资
+6147,北斗资本
+6137,炫动创投基金
+6139,惟德恒投资
+6121,越商永茂
+6123,双雄投资
+6127,国祥投资
+6198,兴金都投资
+6199,钜融产业基金
+6179,高华资本
+6180,江宁科技创投
+6177,千玖投资(五岳投资)
+6162,盘古金融
+6185,元心投资
+6174,中道创新
+6159,长兴红土
+6187,盛里投资
+6209,舜丰投资
+6210,文景投资
+6187,盛里投资
+6188,雨石投资
+6207,金业投资
+6201,支汇股权投资
+6231,星璨投资
+6232,潮宏基集团
+6233,傲英投资
+6216,君禹投资
+6217,中际动力投资
+6229,联宏投资
+6230,铎灏投资
+6213,108度资本
+6219,雍华投资
+6220,醒客投资
+6234,安悦股权投资
+6237,伟昌投资
+6227,凯申投资
+6225,长经投资
+6251,华亿汇志投资
+6240,天奖投资
+6262,联谊智合
+6237,伟昌投资
+6271,广源投资
+6294,海利生物
+6295,东楼创投
+6272,旭辉投资
+6274,水基会睿池
+6296,赛思投资
+6297,博睿长盛
+6284,有孚创投
+6287,无限创投
+6279,海洋创富
+6280,银丰投资
+6289,浙创创业投资
+6300,银睿祥德
+6302,裕泉股权投资
+6303,红树林创投
+6304,巴福乐投资
+6323,厦门弘雅资本
+6324,正洋投资
+6311,汇融通投资
+6300,银睿祥德
+6325,贤丰投资
+6316,行健投资
+6308,金赢华龄
+6347,宏利创投
+6330,汇联投资
+6344,尚泰永源
+6345,睿久合盈
+6363,吉创投资
+6364,吉泉投资
+6327,晨洋股权投资
+6329,玉鼎股权投资
+6343,鸿骥创投
+6339,瑞卓投资
+6361,观复投资
+6335,尚全股权投资
+6396,东熙资本
+6397,鸿元集团
+6370,智信创富
+6371,南京睿恒
+6399,兆星创投
+6382,中企会投资
+6369,华汇创投
+6401,工大集团风投
+6375,瑞德股权投资
+6376,坤鼎股权投资
+6444,慧科教育集团
+6446,永强集团
+6447,瀚展资产
+6448,UCCVR
+6452,ATX Seed Ventures
+6424,粉粉日记
+6408,新华锦投资
+6409,华韵投资
+6410,柚子创投
+6405,睿思股权投资
+6415,信源投资
+6475,数智匠人
+6467,华润创业联和基金
+6448,UCCVR
+6452,ATX Seed Ventures
+6472,Subtraction Capital
+6464,游龙网络
+6454,INKEF Capital
+6481,旺家投资
+6526,醒澜投资
+6522,旺瓜食品
+6523,Falcon Capital
+6498,战国时代
+6514,上海长午投资集团
+6557,CCiC文创孵化中心
+6559,舜会资本
+6566,毅聪创投
+6567,拙朴投资
+6552,东玖资本
+6541,LDV Partners复盛创投
+6538,红筹投资
+6557,CCiC文创孵化中心
+6552,东玖资本
+6569,磐丰投资
+6587,金昌投资
+6588,信元资本
+6589,骑士创投
+6590,普元资本
+6584,新程投资
+6585,丰年资本
+6598,启道创投
+6600,比由技术工场
+6595,庆峰基金
+6652,蓝策ValueLink
+6637,中关村创业大街双创基金
+6639,利得资本
+6621,健禧投资
+6654,朗然资本
+6657,上海仁胜投资
+6624,怀记投资
+6641,二零创投
+6654,朗然资本
+6657,上海仁胜投资
+6667,知投资本
+6676,福泉投资
+6680,厚德创投孵化器
+6726,明峰资本
+6720,几何资本(中国教育投资基金)
+6695,古莲资本
+6728,智义资本
+6723,深圳琢石投资
+6706,如码资本
+6715,永禧资产
+6733,北纬资本
+6736,杰克利奥资本JACKLEO Capital
+6769,中原创新投
+6768,申圳投资
+6734,博瑞德投资
+6744,沐芃闪投
+6796,相兑投资EWI Investments
+6784,歌斐教育
+6786,纳德资本
+6800,海贝资本
+6791,光量资本
+6801,奇势资本
+6835,国鹏资本
+6844,融通高科创投
+6825,辉煌科技
+6830,华美基金
+6831,瀚丰资本
+6862,鼎祁资本
+6863,贞一众创空间
+6864,子竹资产
+6914,北京奕铭投资
+6907,永创伟业
+6909,达安基因
+6905,中大融港创投
+6906,千赐资本
+6888,珍信资本
+6917,大兵小匠
+6918,Ivory Capital Asia凯富利资本
+6918,Ivory Capital Asia凯富利资本
+6917,大兵小匠
+6947,反身资本
+6949,绿河投资
+6939,溪林投资
+6945,君和永道
+6952,星燎资本
+6938,光璞资本
+7013,2049投资集团
+6996,荒合资本
+6997,穆达创投
+6999,长成投资(百度)
+6990,中国中车
+7026,汇雅特集团
+7033,世纪华人
+7052,沿海资本
+7019,中文发集团
+7039,光济资本
+7091,聚元资本
+7095,旭为投资
+7115,信义资本
+7116,指航基金
+7109,清科资本(清科FA)
+7095,旭为投资
+7142,星仪资本集团
+7143,科华银赛
+7137,工商银行
+7149,开牛投资
+7141,国诚基金
+7172,广济创投
+7173,磁力资本
+7181,国投智能
+7167,铠启资本
+7188,再石资本
+7197,倍数资本
+7199,想象资本
+7210,中通财富
+7222,凯融资本
+7224,鸿臻投资
+7216,民族资本
+7216,民族资本
+7199,想象资本
+7249,集睿资本
+7250,浙科投资
+7257,卓悦资本
+7258,方富资本
+7259,震业集团
+7243,菁英汇投资
+7246,中国天禄投资
+7230,一苇资本
+7265,澳洲投资
+7266,智慧工场创投
+7293,银豹投资
+7294,维高集团
+7295,达麟投资
+7297,中硕资本
+7278, 中元九派基金
+7287,腾达资本
+7274,天润投行
+7263,令牌资本
+7297,中硕资本
+7316,纬度创投
+7295,达麟投资
+7321,本初资本
+7353,澄志创投
+7338,丹麓资本
+7340,雷达资本
+7349,高达资本
+7345,万图投资
+7364,多鲸资本
+7367,翰鼎投资
+7354,山景资本
+7383,鹏万投资
+7398,High-Tech Gründerfonds
+4454,泉创资本
+7422,Mosaic Ventures
+7438,泽贤投资
+7429,Pear Ventures
+7460,Entrée Capital
+7522,北大创投
+7513,兴橙资本
+7515,Box Group
+7546,圣山集团
+7537,Refactor Capital
+7542,RGAx
+7571,当代置业
+7599,正友资产
+7604,Eden Ventures
+7622,金融街投资集团
+7630,钱通资本
+7638,Orange Digital Ventures
+7632,珠海科创投
+7663,联合基金
+7659,陀螺创投Top Ventures
+7670,西投控股
+7671,杭州金投
+7688,世界银行
+7675,致远互联
+7677,联创东林
+7687,Seven Peaks Ventures
+7692,紫竹小苗基金
+7706,碧生源
+7701,仁爱资本
+7704,中弘金控
+2985,东元创投
